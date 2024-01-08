@@ -1,7 +1,7 @@
-name,imageUrl,positionName,id,parentId
-JOSMAR VERILLO,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Presidente,00,
-CASSIO MANIN PAGGIARO,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Diretor AgrÃ­cola,01,00
-HELTON CARLOS DE OLIVEIRA,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Diretor Industrial,02,00
+name;imageUrl;positionName;id;parentId
+JOOOOSMAR VERILLO;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Presidente;O-00.;
+CASSIO MANIN PAGGIARO;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Diretor Agrícola;O-01.;O-00.
+HELTON CARLOS DE OLIVEIRA;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Diretor Industrial;O-02.;O-00.
 "TIAGO MARCELO DE NOVAES
 
-",https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Diretor Administrativo Financeiro,03,00
+";https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Diretor Administrativo Financeiro;O-03.;O-00.
