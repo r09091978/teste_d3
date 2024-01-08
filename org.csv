@@ -1,11 +1,11 @@
-name,area,positionName,id,parentId
-A,Corporate,Chief Executive Officer ,O-6066,
-B,Corporate,CTO ,O-6067,O-6066
-C,Corporate,CTO ,O-6068,O-6066
-C,Corporate,CTO ,O-6069,O-6066
-C,Corporate,CTO ,O-6070,O-6066
-C,Corporate,CTO ,O-6071,O-6067
-D,Corporate,Linear Manager,O-6072,O-6067
-E,Corporate,CEO,O-6073,O-6067
-F,Corporate,Head of direction,O-6074,O-6067
-G,Corporate,Senior sales manager,O-6075,O-6067
+name;imageUrl;area;positionName;id;parentId
+A;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Chief Executive Officer ;O-6066;
+B;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;CTO ;O-6067;O-6066
+C;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;CTO ;O-6068;O-6066
+D;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;CTO ;O-6069;O-6066
+E;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;CTO ;O-6070;O-6066
+F;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;CTO ;O-6071;O-6067
+G;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Linear Manager;O-6072;O-6067
+H;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;CEO;O-6073;O-6067
+I;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Head of direction;O-6074;O-6067
+J;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Senior sales manager;O-6075;O-6067
