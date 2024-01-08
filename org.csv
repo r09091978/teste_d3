@@ -1,839 +1,109 @@
-name,imageUrl,positionName,id,parentId
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Presidente,0,
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Diretor Agrícola,1,0
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Diretor Industrial,2,0
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Diretor Administrativo Financeiro,3,0
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Planejamento e Controle e Tecnologia - JB,104,1
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Relac. com Fornecedor - Ger Relac. com Fornec e Parceiros - JB,105,1
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Processos Agrícola -  Gerência Agrícola - PB,106,1
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Processos Agricola - Gerencia Agricola - JB,108,1
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Manutenção Agricola -  Gerência de Recursos Mecanizados - JB,107,1
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Processos Industriais -  Indústria - JB,201,2
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Processos Industriais -  Indústria - PB,202,2
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Engenharia e Qualidade - Engenharia PB,205,2
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Controladoria - Controladoria - JB,301,3
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Tecnologia Informação -  Gerência TI - JB,302,3
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Suprimentos -  Gerência de Suprimentos - JB,304,3
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Juridico/Recursos Humanos - Juridico/RH - JB,501,5
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente SSMA - SSMA JB,504,5
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Controles Agricolas -  Sup. Gestão Estrat. e Planej. - JB,10401,104
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Agricola - Supervisao Engenharia Agricola Agronomica - JB,10402,104
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Agricola - Supervisao Engenharia Agricola Agronomica - PB,10404,104
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Geotecnologia - Novas Tecnologias Agrícolas (JB),10403,104
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Relac. Forn. e Parc -  Sup Relacionamento com Fornec e Parc,10501,105
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Agricola -  Colheita - PB,10601,106
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Agricola -  Colheita - JB,10602,106
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Agricola - PPT (JB),10603,106
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Agricola - Tratos Culturais - PB,10604,106
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Agricola - PPT - PB,10605,106
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Irrigação - Irrigação PB,10606,106
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Manut. Automotiva -  Recursos Mecanizados - PB,10702,107
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Manut. Automotiva -  Recursos Mecanizados - JB,10701,107
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Prod. Açúcar/Etanol - Supervisão Processos Industriais (PB),20108,201
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Manut. Industrial -  Mecânica e Usinagem  (JB),20207,202
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Manut. Industrial -  Elétrica e Instrumentação SNR - PB,20208,202
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Proc. Industriais - Engenharia de Manutenção Planejamento,20501,205
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Engenharia - Eng. Manut. Planej. Proj. - JB,20502,205
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Contabil / Fiscal -  Contabilidade - JB,30101,301
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Custos / Orçamento -  Planejamento e Custos - JB,30103,301
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Financeiro -  Sup - Financeiro - JB,30104,301
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor TI -  Sup - TI Sistema - JB,30203,302
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor TI -  Sup - TI Infraestrutura - PB,30204,302
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Transf. Digital - TI - Transformação Digital (JB),30205,302
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Suprimentos - Suprimentos - JB,30401,304
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Suprimentos - Sup. Compras - JB,30403,304
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor de Facilities - Facilities - JB,30901,309
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Excelencia e Projetos - Supervisão Excelência e Projetos JB,31001,310
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Recursos Humanos DO - Desenvolvimento JB,50101,501
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Recursos Humanos - Supervisão Administração de Pessoal - JB,50102,501
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisora Restaurante -  Supervisão Restaurante - JB,50103,501
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Meio Ambiente -  Meio Ambiente - JB,50402,504
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Saude - Saude do Trabalho - JB,50404,504
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Seg. do Trabalho - Supervisão Segurança do Trabalho (JB),50405,504
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Seg. do Trabalho - Supervisão Segurança do Trabalho - PB,50406,504
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Controle Agricola - Coordenador Controle Agricola JB,1040101,10401
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Coordenação Fitossanidade - PB,1040201,10404
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Fitosanidade / Viveiros / Ensaios - JB,1040202,10402
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Combate a Incêndio Turno C - PB,1060101,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Combate a Incêndio Turno B - PB,1060139,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Líder Agrícola - Gestão da Colheita - PB,1060102,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Líder Agrícola - Gestão da Colheita - PB,1060128,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Transp. Canav. Turno B - PB,1060129,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Frentes de Colheita 3 e 4 Turno A - PB,1060130,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Líder Agrícola - Gestão da Colheita - PB,1060131,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola -  Frente Colheita - PB,1060132,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Líder Agrícola - Gestão da Colheita - PB,1060133,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Líder Agrícola - Gestão da Colheita - PB,1060134,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Frentes de Colheita 5 e 6 Turno C - PB,1060135,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Frentes de Colheita 5 e 6 Turno A - PB,1060136,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Frentes de Colheita 5 e 6 Turno B - PB,1060137,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Transp. Canav. Turno A - PB,1060138,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Líder Agrícola - Gestão da Colheita - JB,106012,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Líder Agrícola - Gestão da Colheita - JB,1060126,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Frentes de Colheita 5 e 6 Turno C - JB,1060125,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Frentes de Colheita 2 e 4 Turno B - JB,1060124,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Frentes de Colheita 5 e 6 Turno A - JB,1060122,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Frentes de Colheita 3 e Transporte Turno A - JB,1060123,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Líder Agrícola - Gestão da Colheita - JB,1060120,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Frentes de Colheita 3 e Transporte Turno B - JB,1060119,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Líder Agrícola - Gestão da Colheita - JB,1060118,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Logistica/Apoio - PB,1060103,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Central - JB,1060117,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agrícola - Irrigação - JB,1060201,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Fertirrigação - PB,1060216,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Irrigação Turno A - PB,1060215,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Irrigação - PB,1060202,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Coordenação adubação (JB),1060214,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Coordenação Herbicida (JB),1060203,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Preparo de Solo - PB,1060204,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Plantio - JB,1060205,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola _ Plantio Entressafra,1060206,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - MDO Rural - JB,1060207,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Laboratório de Solos - JB,1060209,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Tratos Culturais - PB,1060212,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Tratos Culturais - PB,1060213,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Líder Agrícola - Irrigação - PB,1060301,10603
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Líder Agrícola - Irrigação - PB,1060306,10603
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Coordenação Irrigação - PB,1060305,10603
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Coordenação Irrigação - PB,1060304,10603
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Coordenação Irrigação - PB,1060303,10603
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Coordenação Irrigação - PB,1060302,10603
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Manut. Automotiva -  Caminhões e Primária - JB,1070201,10702
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Manut. Automotiva -  Caminhões e Primária - PB,1070206,10702
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Manutenção Automotiva -  Colhedora - PB,1070202,10702
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Manut. Automotiva -  Colhedoras Interna  (JB),1070205,10702
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Manut. Automotiva -  Tratores Interno - PB,1070203,10702
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Manut. Automotiva -  Tratores (JB),1070204,10702
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Proc. Industriais -  Extração - PB,2010801,20108
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Proc. Industriais -  Extração - JB,2010809,20108
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Proc. Industriais -  Fábrica de Açúcar - JB,2010802,20108
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Proc. Industriais -  Fábrica de Açúcar - JB,2010808,20108
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Proc. Industriais - Fábrica de Açúcar - PB,2010807,20108
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Proc. Industriais -  Fábrica de Álcool  (PB),2010803,20108
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Proc. Industriais -  Fábrica de Álcool  (JB),2010806,20108
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Proc. Industriais -  Geração de Vapor - PB SNR,2010804,20108
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Logistica e Armazem - Armazem de Açúcar (JB),2010805,20108
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Manut. Eletrica -  Elétrica - PB,2020701,20207
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Manut. Eletrica -  Elétrica - JB,2020709,20207
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Manut. Mec. Ind. -  Mecânica  (JB) SNR,2020702,20207
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Manut. Mec. Ind. -  Mecânica e Usinagem - PB,2020708,20207
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Manut. Mec. Industrial - Caldeiraria PB,2020703,20207
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Manutenção Industrial - Coordenação Caldeiraria JB,2020707,20207
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Instrum. e Autom. -  Instrumentação - PB,2020704,20207
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Instrum. e Autom. -  Instrumentação - JB,2020706,20207
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Proc. Industriais -  Geração de Vapor - JB,2020705,20207
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Cont. da Qualidade -  Laboratório Industrial - PB,2050201,20502
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Cont. da Qualidade -  Laboratório Industrial - JB,2050202,20502
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Sistema Qualidade - Sistema da Qualidade (JB),2050301,20503
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Materiais -  Almoxarifado - PB,3040101,30401
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Inteligencia Mercado - Negocios - JB,3040701,30407
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Patrim. e Serviços -  Patrimônio e Serviços - JB,3090101,30901
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Patrim. e Serviços -  Patrimônio e Serviços - PB,3090104,30901
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Patrim. e Serviços - Infraestrutura Facilities - JB,3090102,30901
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Jardinagem - Jardinagem e Paisagismo (JB),3090103,30901
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador em Projetos - Escritorio de Projetos - JB,3100102,31001
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Lider de Restaurante - Restaurante (JB),5010307,50103
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Lider de Restaurante - Restaurante (PB),5010308,50103
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Auxiliar Limpeza - Controle Agricola - PB,1,0401E+12,1040101
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Especialista Planejamento Agrícola - Controles Agricolas - PB,1,0401E+12,1040101
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Analista Planejamento Controle Agrícola SR - Controle Agrícola - PB,1,0401E+12,1040101
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Analista Proc. Agricolas Pl - Controle Agricola - PB,1,0401E+12,1040101
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Assistente Administrativo - Controle Agricola - PB,1,0401E+12,1040101
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Analista Proc. Agricolas Jr - Controle Agricola - PB,1,0401E+12,1040101
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Analista Proc. Agricolas Pl - Controle Agricola - JB,1,0401E+12,1040101
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Especialista Planejamento Agrícola - Controle Agricola (JB),1,0401E+12,1040101
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Analista BI - Controle Agrícola (JB),1,0401E+12,1040101
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Assistente Administrativo - Controle Agricola - JB,1,0401E+12,1040101
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Analista Proc. Agricolas Jr - Controle Agricola - JB,1,0401E+12,1040101
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Analista Planejamento Controle Agrícola SR - Controle Agrícola - JB,1,0401E+12,1040101
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Analista Contr. Agronomico Pl - Controle Agricola - JB,1,0401E+12,1040101
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Aprendiz - Controle Agricola - JB,1,0401E+12,1040101
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Motorista II - Contr. Qualidade Agricola PB,1,0401E+12,1040101
-,,Operador Maq. Agrícolas I - Central Defensivos - PB,1,0401E+12,1040101
-,,Auxiliar Agrícola - Central Defensivos - PB,1,0401E+12,1040101
-,,Motorista II - Fitossanidade JB,1,0402E+12,1040201
-,,Auxiliar Fitossanidade - Fitossanidade JB,1,0402E+12,1040201
-,,Aprendiz - Fitossanidade (JB),1,0402E+12,1040201
-,,Lider Agricola - Fitossanidade - JB,1,0402E+12,1040201
-,,Lider Agricola - Fitossanidade/Viveiros/Ensaios - PB,1,0402E+12,1040201
-,,Auxiliar Fitossanidade - Fitossanidade - PB,1,0402E+12,1040201
-,,Auxiliar Fitossanidade - Fitossanidade - PB,1,0402E+12,1040201
-,,Auxiliar Agricola - Fitossanidade - PB,1,0402E+12,1040201
-,,Motorista II - Fitossanidade/Viveiros/Ensaios - PB,1,0402E+12,1040201
-,,Especialista Desenv. Agronomico - Fitossanidade JB,1,0402E+12,1040201
-,,Auxiliar Agrícola - Fitossanidade/Viveiros/Ensaios - PB,1,0402E+12,1040201
-,,Operador Maq. Agricolas II - Reflorestamento JB,1,0402E+12,1040201
-,,Analista Inteligência Geografica - Novas Tecnologias PB,1,0403E+12,10403
-,,Tecnico de Geotecnologia - Novas Tecnologias Agricolas - PB,1,0403E+12,10403
-,,Analista Inteligencia Geografica - Novas Tecnologias JB,1,0403E+12,10403
-,,Tecnico de Geotecnologia - Novas Tecnologias Agricolas (JB),1,0403E+12,10403
-,,Desenhista Projetista Agricola - Novas Tecnologias Agricolas JB,1,0403E+12,10403
-,,Desenhista Projetista Agricola - Novas Tecnologias Agrícola - PB,1,0403E+12,10403
-,,Topografo - Topografia - PB,1,0403E+12,10403
-,,Assistente Administrativo - Relacionamento com Fornecedores e Parceiro,1,0501E+12,10501
-,,Especialista Intelig. Mercado - Relac. Fornecedores e Parceiros - JB,1,0501E+12,10501
-,,Especialista de RFPA - Relac. Fornecedores e Parceiros - JB,1,0501E+12,10501
-,,Analista Contratos Pl - Relacionamento Fornecedores Parceiros - JB,1,0501E+12,10501
-,,Engenheiro Agronomo - Relac. Fornecedores e Parceiros - JB,1,0501E+12,10501
-,,Analista Contratos Jr - Relac. Fornecedores e Parceiros - PB,1,0501E+12,10501
-,,Analista de RFPA - Relac. Fornecedores e Parceiros - PB,1,0501E+12,10501
-,,Lider Agricola - Combate a Incêndio (JB),1,0601E+12,1060101
-,,Auxiliar Agricola - Combate a Incêncio - PB,1,0601E+12,1060101
-,,Motorista II - Combate a Incêncio - PB,1,0601E+12,1060101
-,,Auxiliar Agrícola - Combate a Incêndio - JB,1,0601E+12,1060101
-,,Coordenador Agricola - Combate a Incendios - JB,1,0601E+11,1060101
-,,Motorista II - Combate Incêndio (JB),1,0601E+12,1060101
-,,Motorista II - Combate a Incêndio - JB,1,0601E+12,1060101
-,,Auxiliar Agricola - Combate a Incêndio - JB,1,0601E+12,1060101
-,,Operador Maquina Agrícola II - Frente de Colheita 1 - JB,1,0601E+12,1060102
-,,Operador Maquina Agricola II - Frente de colheita II (JB),1,0601E+12,1060102
-,,Operador Maquina Agricola III - Frente de Colheita 1 - JB,1,0601E+12,1060102
-,,Operador Maq. Agricolas II - Frente de Colheita 2 - JB,1,0601E+12,1060102
-,,Motorista II - Frente de Colheita 2 - JB,1,0601E+12,1060102
-,,Operador Maq. Agricolas III - Frente de Colheita 2 - JB,1,0601E+12,1060102
-,,Motorista III - Frente de Colheita 2 - JB,1,0601E+12,1060102
-,,Auxiliar Agricola - Frente de Colheita 2 - JB,1,0601E+12,1060102
-,,Operador Maquina Agrícola III - Frente de Colheita 2 - PB,1,0601E+12,1060102
-,,Operador Maquina Agrícola II - Frente de Colheita 2 - PB,1,0601E+12,1060102
-,,Motorista II - Frente de Colheita 2 - PB,1,0601E+12,1060102
-,,Operador Maq. Agricolas III - Frente de Colheita 3 - JB,1,0601E+12,1060102
-,,Motorista II - Frente de Colheita 3 - JB,1,0601E+12,1060102
-,,Controlador Trafego Jr - Frente de Colheita 3 - PB,1,0601E+12,1060102
-,,Operador Maq. Agricolas III - Frente de Colheita 3 - PB,1,0601E+12,1060102
-,,Motorista II - Frente de Colheita 3 - PB,1,0601E+12,1060102
-,,Operador Maq. Agricolas II - Frente de Colheita 3 - PB,1,0601E+12,1060102
-,,Motorista II - Frente de Colheita 3 PB,1,0601E+12,1060102
-,,Operador Maq. Agricolas II - Frente de Colheita 3 - JB,1,0601E+12,1060102
-,,Operador Maq. Agricolas II - Frente de Colheita 4 - PB,1,0601E+12,1060102
-,,Operador Maq. Agricolas III - Frente de Colheita 4 - PB,1,0601E+12,1060102
-,,Motorista II - Frente de Colheita 4 PB,1,0601E+12,1060102
-,,Operador Maq. Agricolas III - Frente de Colheita 4 - JB,1,0601E+12,1060102
-,,Operador Maq. Agricolas II - Frente de Colheita 4 - JB,1,0601E+12,1060102
-,,Motorista II - Frente de Colheita 4 - JB,1,0601E+12,1060102
-,,Operador Maq. Agricolas III - Frente de Colheita 5 - PB,1,0601E+12,1060102
-,,Operador Maq. Agricolas III - Frente de Colheita 5 - JB,1,0601E+12,1060102
-,,Operador Maq. Agricolas II - Frente de Colheita 5 - JB,1,0601E+12,1060102
-,,Motorista II - Frente de Colheita 5 PB,1,0601E+12,1060102
-,,Operador Maq. Agricolas II - Frente de Colheita 5 - PB,1,0601E+12,1060102
-,,Motorista II - Frente de Colheita 6 - PB,1,0601E+12,1060102
-,,Operador Maq. Agricolas II - Frente de Colheita 6 - PB,1,0601E+12,1060102
-,,Operador Maq. Agricolas III - Frente de Colheita 6 - PB,1,0601E+12,1060102
-,,Auxiliar Agricola - Patio de Cana - JB,1,0601E+12,1060102
-,,Auxiliar Agricola - Patio de Cana - JB,1,0601E+12,1060102
-,,Auxiliar Agrícola - Auxiliares Cana- PIcada - PB,1,0601E+12,1060102
-,,Auxiliar Agricola - Patio de Cana - JB,1,0601E+12,1060102
-,,Auxiliar Agrícola - Auxiliares Cana- PIcada - PB,1,0601E+12,1060102
-,,Operador Maq. Agricolas III - Patio de Cana - JB,1,0601E+12,1060102
-,,Controlador Trafego Jr - Patio de Cana (PB),1,0601E+12,1060102
-,,Operador Maq. Agricolas III - Patio de Cana - JB,1,0601E+12,1060102
-,,Operador Maq. Agricolas II - Patio de Cana - JB,1,0601E+12,1060102
-,,Controlador Trafego Jr - Patio de Cana (PB),1,0601E+12,1060102
-,,Auxiliar Agrícola - Auxiliares Cana- PIcada - PB,1,0601E+12,1060102
-,,Técnico Agricultura Precisão - Frentes de Colheita (PB),1,0601E+12,1060102
-,,Técnico Agricultura de Precisão - Frentes de Colheita (JB),1,0601E+12,1060102
-,,Operador Maq. Agricolas III - RPA - JB,1,0601E+12,1060102
-,,Motorista III - Motorista Carreteiro - JB,1,0601E+12,1060102
-,,Motorista III - Motorista Carreteiro - JB,1,0601E+12,1060102
-,,Motorista III - Motorista Carreteiro - JB,1,0601E+12,1060102
-,,Motorista III - Motorista Carreteiro - PB,1,0601E+12,1060102
-,,Motorista III - Motorista Carreteiro - PB,1,0601E+12,1060102
-,,Motorista III - Motorista Carreteiro - PB,1,0601E+12,1060102
-,,Aprendiz - Programa Jovem Aprendiz CTT PB,1,0601E+12,1060102
-,,Aprendiz - Central - JB,1,0601E+12,1060102
-,,Aprendiz - Colheita - JB,1,0601E+12,1060102
-,,Operador Maq. Agricolas III - Central - JB,1,0601E+12,1060103
-,,Operador Maquina I - Central - JB,1,0601E+12,1060103
-,,Operador Maq. Agricolas III - Central - JB,1,0601E+12,1060103
-,,Operador Maq. Agricolas I - Central - JB,1,0601E+12,1060103
-,,Controlador Trafego PL - Central PB,1,0601E+12,1060103
-,,Operador Maq. Agricolas I - Central - PB,1,0601E+12,1060103
-,,Controlador Trafego Pl - Central - JB,1,0601E+12,1060103
-,,Motorista I - Central - PB,1,0601E+12,1060103
-,,Motorista I - Central (PB),1,0601E+12,1060103
-,,Motorista II - Central PB,1,0601E+12,1060103
-,,Motorista Administrativo - Central - JB,1,0601E+12,1060103
-,,Auxiliar Limpeza - Central - JB,1,0601E+12,1060103
-,,Motorista III - Central - JB,1,0601E+12,1060103
-,,Motorista I - Central - JB,1,0601E+12,1060103
-,,Motorista II - Central - JB,1,0601E+12,1060103
-,,Motorista III - Central - JB,1,0601E+12,1060103
-,,Lider Agricola - Central - JB,1,0601E+11,1060103
-,,Motorista III - Central - PB,1,0601E+12,1060103
-,,Auxiliar Agricola - Central - PB,1,0601E+12,1060103
-,,Controlador Trafego Sr - Balança - PB,1,0601E+12,1060103
-,,Controlador Trafego JR - Balança (PB),1,0601E+12,1060103
-,,Auxiliar Administrativo - Balança - PB,1,0601E+12,1060103
-,,Auxiliar Limpeza - Balança - PB,1,0601E+12,1060103
-,,Controlador Trafego Pl - Balança - PB,1,0601E+12,1060103
-,,Controlador Trafego Sr - Balança - JB,1,0601E+12,1060103
-,,Controlador Trafego Jr - Balança - JB,1,0601E+12,1060103
-,,Aprendiz - Balança - JB,1,0601E+12,1060103
-,,Estagiario - Supervisão CTT - JB,1,0601E+12,1060104
-,,Especialista Agricola - Supervisão CTT,1,06011E+12,1060105
-,,Motorista III - Irrigação (Carreteiro) PB,1,0602E+12,1060201
-,,Operador Maq. Agricolas I - Irrigação - PB,1,0602E+12,1060201
-,,Motorista III - Irrigação - PB,1,0602E+12,1060201
-,,Auxiliar Agricola - Irrigação - PB,1,0602E+12,1060201
-,,Operador Maq. Agricolas I - Irrigação - PB,1,0602E+12,1060201
-,,Motorista II - Irrigação - PB,1,0602E+12,1060201
-,,Operador Maq. Agricolas I - Irrigação - PB,1,0602E+12,1060201
-,,Motorista III - Irrigação - PB,1,0602E+12,1060201
-,,Auxiliar Agricola - Irrigação - JB,1,0602E+12,1060201
-,,Operador Maq. Agricolas III - Fertirrigação - JB,1,0602E+12,1060201
-,,Lider Agricola - Irrigação - JB,1,0602E+12,1060201
-,,Operador Maq. Agricolas II - Irrigação - JB,1,0602E+12,1060201
-,,Motorista III - Fertirrigação - JB,1,0602E+12,1060201
-,,Auxiliar Agricola - Irrigação - PB,1,0602E+12,1060201
-,,Operador Maq. Agricolas I - Irrigação - JB,1,0602E+12,1060201
-,,Motorista III - Irrigação (Carreteiro) PB,1,0602E+12,1060201
-,,Motorista II - Irrigação - PB,1,0602E+12,1060201
-,,Motorista III - Irrigação - PB,1,0602E+12,1060201
-,,Auxiliar Agricola - Irrigação - PB,1,0602E+12,1060201
-,,Motorista III - Irrigação - PB,1,0602E+12,1060201
-,,Auxiliar Agricola - Irrigação - PB,1,0602E+12,1060201
-,,Operador Maq. Agricolas I - Irrigação - PB,1,0602E+12,1060201
-,,Operador Maq. Agricolas III - Irrigação - PB,1,0602E+12,1060201
-,,Lider Agricola - Irrigação - PB,1,0602E+12,1060201
-,,Operador Maq. Agricolas II - Irrigação - PB,1,0602E+12,1060201
-,,Operador Maq. Agricolas III - Irrigação - PB,1,0602E+12,1060201
-,,Motorista III - Irrigação (Carreteiro) PB,1,0602E+12,1060201
-,,Operador Maq. Agricolas II - Irrigação - PB,1,0602E+12,1060201
-,,Operador Maq. Agricolas III - Irrigação - PB,1,0602E+12,1060201
-,,Motorista III - Irrigação - PB,1,0602E+12,1060201
-,,Operador Maq. Agricolas II - Irrigação - PB,1,0602E+12,1060201
-,,Motorista II - Irrigação - PB,1,0602E+12,1060201
-,,Operador Maq. Agricolas II - Carregadeira Adubo - PB,1,0602E+12,1060202
-,,Operador Maq. Agricolas II - Cultivo Simples - JB,1,0602E+12,1060202
-,,Operador Maq. Agricolas II - Cultivo Simples - JB,1,0602E+12,1060202
-,,Operador de Maq. Agrícolas I - Cultivo Simples - JB,1,0602E+12,1060202
-,,Motorista III - Cultivo Simples - JB,1,0602E+12,1060202
-,,Motorista II - Transporte de Adubo - PB,1,0602E+12,1060202
-,,Auxiliar Agricola - Transporte de Adubo (PB),1,0602E+12,1060202
-,,Motorista III - Transporte de Adubo (PB),1,0602E+12,1060202
-,,Motorista III - Transporte de Adubo - PB,1,0602E+12,1060202
-,,Motorista III - Transporte de Adubo (PB),1,0602E+12,1060202
-,,Auxiliar Agricola - Transporte de Adubo (PB),1,0602E+12,1060202
-,,Operador Maq. Agricolas II - Herbicida - JB,1,0602E+12,1060203
-,,Motorista II - Herbicida - JB,1,0602E+12,1060203
-,,Motorista II - Herbicida - PB,1,0602E+12,1060203
-,,Motorista III - Herbicida - PB,1,0602E+12,1060203
-,,Motorista III - Herbicida (JB),1,0602E+12,1060203
-,,Operador Maq. Agricolas III - Herbicida - JB,1,0602E+12,1060203
-,,Lider Agricola - Herbicida (JB),1,0602E+12,1060203
-,,Motorista III - Herbicida JB,1,0602E+12,1060203
-,,Operador Maq. Agricolas II - Herbicida - JB,1,0602E+12,1060203
-,,Motorista III - Cultivo Quimico (PB),1,0602E+12,1060203
-,,Motorista II - Cultivo Quimico (PB),1,0602E+12,1060203
-,,Operador Maq. Agricolas II - Cultivo Químico - PB,1,0602E+12,1060203
-,,Motorista II - Cultivo Químico - PB,1,0602E+12,1060203
-,,Operador Maq. Agricolas II - Cultivo Químico - PB,1,0602E+12,1060203
-,,Auxiliar Agricola - Cultivo Quimico (PB),1,0602E+12,1060203
-,,Motorista II - Motorista II,1,0602E+12,1060203
-,,Operador Maq. Agricolas II - Cultivo Quimico (PB),1,0602E+12,1060203
-,,Operador Maq. Agricolas III - Cultivo Quimico (PB),1,0602E+12,1060203
-,,Auxiliar Agrícola - Cultivo Quimico - JB,1,0602E+12,1060203
-,,Auxiliar Agricola - Cultivo Quimico - JB,1,0602E+12,1060203
-,,Operador Maq. Agricolas II - Preparo de Solo - JB,1,0602E+12,1060204
-,,Operador Maq. Agricolas III - Preparo de Solo - JB,1,0602E+12,1060204
-,,Operador Maq. Agricolas III - Preparo de Solo - JB,1,0602E+12,1060204
-,,Motorista II - Preparo Solo - JB,1,0602E+12,1060204
-,,Lider Agricola - Preparo de Solo - JB,1,0602E+12,1060204
-,,Operador Maq. Agricolas II - Preparo de Solo - PB,1,0602E+12,1060204
-,,Operador Maq. Agricolas III - Preparo de Solo - PB,1,0602E+12,1060204
-,,Operador Maq. Agricolas III - Preparo de Solo - PB,1,0602E+12,1060204
-,,Lider Agricola - Preparo de Solo PB,1,0602E+12,1060204
-,,Lider Agricola - Preparo de Solo PB,1,0602E+12,1060204
-,,Operador Maq. Agricolas II - Preparo de Solo e Quimicos - JB,1,0602E+12,1060204
-,,Auxiliar Agricola - Plantio - PB,1,06021E+12,1060205
-,,Operador Maq. Agricolas II - Plantio - PB,1,06021E+12,1060205
-,,Motorista III - Motorista Carreteiro - PB,1,06021E+12,1060205
-,,Motorista II - Plantio - PB,1,06021E+12,1060205
-,,Motorista II - Plantio - PB,1,06021E+12,1060205
-,,Motorista III - Plantio - PB,1,06021E+12,1060205
-,,Assistente Agrícola - Plantio - PB,1,06021E+12,1060205
-,,Operador Maq. Agricolas III - Plantio - PB,1,06021E+12,1060205
-,,Operador Maq. Agricolas III - Plantio - JB,1,06021E+12,1060205
-,,Lider Agricola - Plantio - JB,1,06021E+12,1060205
-,,Tecnico Agricultura Precisão - Plantio - JB,1,06021E+12,1060205
-,,Motorista II - Plantio - JB,1,06021E+12,1060205
-,,Motorista II - Plantio - JB,1,06021E+12,1060205
-,,Motorista II - Plantio - JB,1,06021E+12,1060205
-,,Operador Maq. Agricolas II - Plantio e Quimicos - JB,1,06021E+12,1060205
-,,Motorista II - Plantio e Quimicos - JB,1,06021E+12,1060205
-,,Lider Agricola - MOD Rural - PB,1,06021E+12,1060207
-,,Lider Agricola - MDO Rural - JB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 01 - JB,1,06021E+12,1060207
-,,Lider Agrícola - Turma 2 JB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 02 - JB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 03 - JB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 05 JB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 06 - JB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 06 - JB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 07- JB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 08 - JB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 09 - JB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 15 - JB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 29 - PB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 30 - PB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 30 - JB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 31 - PB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 32 - PB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 33 - PB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 34 - PB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 36 - PB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 37 - PB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 38 - PB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 39 - PB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 40 - PB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 45 - PB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 59 - PB,1,06021E+12,1060207
-,,Trabalhador Rural - Turma 80 - PB,1,06021E+12,1060207
-,,Motorista II - MDO Contrução de Cerca (PB),1,06021E+12,1060207
-,,Topografo - Topografia - JB,1,06021E+12,1060208
-,,Auxiliar Laboratório de Solos - Laboratorio de Solo (JB),1,06021E+12,1060209
-,,Lider laboratorio Solos - Laboratórios de Solos (JB),1,06021E+12,1060209
-,,Estagiario - Laboratorio de Solo - JB,1,06021E+12,1060209
-,,Aprendiz - Laboratorio de Solo - JB,1,06021E+12,1060209
-,,Analista Laboratorio Solos - Laboratorio de Solo - JB,1,06021E+12,1060209
-,,Lider fabrica Adubo - Fabrica de Adubo (JB),1,06021E+12,1060209
-,,Operador Fabrica Adubo - Fabrica de Adubo - JB,1,06021E+12,1060209
-,,Operador Maq. Agricolas I - Tratos Culturais - JB,1,06021E+12,1060212
-,,Lider Agricola - Tratos Culturais - JB,1,06021E+12,1060212
-,,Lider Agricola - Tratos Culturais - PB,1,06021E+12,1060212
-,,Motorista III - Irrigação - PB,1,0603E+12,1060301
-,,Eletricista Agricola I - Irrigação PB,1,0603E+12,1060301
-,,Mecânico Agrícola I - Irrigação PB,1,0603E+12,1060301
-,,Engenheiro Agrônomo - Irrigação - PB,1,0603E+12,1060301
-,,Operador de Barco - Irrigação PB,1,0603E+12,1060301
-,,Operador Irrigação I -Irrigação PB,1,0603E+12,1060301
-,,Operador Irrigação I -Irrigação PB,1,0603E+12,1060301
-,,Auxiliar Agrícola - Irrigação - PB,1,0603E+12,1060301
-,,Operador Maquina Agrícola I - Irrigação - PB,1,0603E+12,1060301
-,,Operador de Barco - Irrigação PB,1,0603E+12,1060301
-,,Operador Maquina Agrícola I - Irrigação - PB,1,0603E+12,1060301
-,,Motorista III - Irrigação - PB,1,0603E+12,1060301
-,,Auxiliar Agrícola - Irrigação - PB,1,0603E+12,1060301
-,,Analista PCM Automotivo Jr - Controle Automotiva - PB,1,0701E+12,1070101
-,,Assistente Administrativo - Controle Automotiva - PB,1,0701E+12,1070101
-,,Assistente Administrativo - Controle Automotiva - JB,1,0701E+12,1070101
-,,Analista PCM Automotivo Jr - Controle Automotiva - JB,1,0701E+12,1070101
-,,Engenheiro Mecanico - Controle Automotivo - PB,1,0701E+12,1070101
-,,Engenheiro Mecanico - Controle Automotivo - JB,1,0701E+12,1070101
-,,Analista PCM Automotivo Pl - Controle Automotiva - PB,1,0701E+12,1070101
-,,Mecanico Automotiva Lider - Caminhões JB,1,0702E+12,1070201
-,,Cald/Sold Automotiva I - Caminhões - PB,1,0702E+12,1070201
-,,Mecanico Automotivo II - Caminhões PB,1,0702E+12,1070201
-,,Mecanico Automotiva Lider - Caminhões - PB,1,0702E+12,1070201
-,,Funileiro - Caminhões PB,1,0702E+12,1070201
-,,Mecanico Automotivo III - Caminhões PB SNR,1,0702E+12,1070201
-,,Eletricista Automotivo I - Caminhões PB,1,0702E+12,1070201
-,,Cald/Sold Automotivo II - Caminhões - PB,1,0702E+12,1070201
-,,Auxiliar Manutenção Automotiva - Caminhões - JB,1,0702E+12,1070201
-,,Mecanico Automotivo I - Caminhões PB,1,0702E+12,1070201
-,,Eletricista Automotivo II - Caminhões JB,1,0702E+12,1070201
-,,Eletricista Automotivo II - Caminhões PB,1,0702E+12,1070201
-,,Eletricista Automotivo II - Caminhões (PB),1,0702E+12,1070201
-,,Mecanico Automotivo III - Caminhões PB,1,0702E+12,1070201
-,,Eletricista Automotivo II - Caminhões JB SNR,1,0702E+12,1070201
-,,Mecanico Automotiva Lider - Caminhões JB SNR,1,0702E+12,1070201
-,,Auxiliar Limpeza - Caminhões - JB,1,0702E+12,1070201
-,,Eletricista Automotivo I - Caminhões JB,1,0702E+12,1070201
-,,Mecanico Automotivo III - Caminhões JB,1,0702E+12,1070201
-,,Eletricista Automotivo III - Caminhões JB,1,0702E+12,1070201
-,,Mecanico Automotivo II - Caminhões JB,1,0702E+12,1070201
-,,Mecanico Automotivo I - Caminhões JB,1,0702E+12,1070201
-,,Motorista III - Caminhões JB,1,0702E+12,1070201
-,,Eletricista Automotivo III - Caminhões PB,1,0702E+12,1070201
-,,Auxiliar Manutenção Automotiva - Caminhões - PB,1,0702E+12,1070201
-,,Mecanico Automotiva Lider - Primaria - PB,1,0702E+12,1070201
-,,Auxiliar Manutenção Automotiva - Primaria - PB,1,0702E+12,1070201
-,,Lubrificador Automotivo III - Primaria PB,1,0702E+12,1070201
-,,Auxiliar Manutenção - Primaria PB,1,0702E+12,1070201
-,,Lubrificador Automotivo II - Primaria PB,1,0702E+12,1070201
-,,Borracheiro II - Primaria - PB,1,0702E+12,1070201
-,,Auxiliar Limpeza - Primaria - PB,1,0702E+12,1070201
-,,Lubrificador Automotivo III - Primaria JB,1,0702E+12,1070201
-,,Mecanico Automotivo II - Primaria JB,1,0702E+12,1070201
-,,Especialista em Manutenção Automotiva,1,0702E+12,1070201
-,,Mecanico Automotiva Lider - Primaria JB,1,0702E+12,1070201
-,,Auxiliar Manutenção Automotiva - Primaria - JB,1,0702E+12,1070201
-,,Borracheiro III - Primaria - JB,1,0702E+12,1070201
-,,Borracheiro II - Primaria - JB,1,0702E+12,1070201
-,,Borracheiro I - Primaria - JB,1,0702E+12,1070201
-,,Lubrificador Automotivo I - Primaria JB,1,0702E+12,1070201
-,,Lubrificador Automotivo II - Primaria JB,1,0702E+12,1070201
-,,Motorista I - Colhedoras PB,1,0702E+12,1070202
-,,Mecanico Automotivo II - Colhedoras PB,1,0702E+12,1070202
-,,Mecanico Automotivo III - Colhedoras PB,1,0702E+12,1070202
-,,Mecanico Automotiva Lider - Colhedoras PB,1,0702E+12,1070202
-,,Mecanico Automotivo II - Colhedoras PB SNR,1,0702E+12,1070202
-,,Auxiliar Manutenção Automotiva - Colhedoras - PB,1,0702E+12,1070202
-,,Cald/Sold Automotivo II - Colhedoras - PB,1,0702E+12,1070202
-,,Mecanico Automotivo III - Colhedoras PB SNR,1,0702E+12,1070202
-,,Mecanico Automotivo I - Colhedoras PB,1,0702E+12,1070202
-,,Mecanico Automotivo I - Colhedoras JB,1,0702E+12,1070202
-,,Mecanico Automotivo II - Colhedoras JB,1,0702E+12,1070202
-,,Mecanico Automotiva Lider - Colhedoras JB,1,0702E+12,1070202
-,,Mecanico Automotiva Lider - Colhedoras JB SNR,1,0702E+12,1070202
-,,Cald/Sold Automotivo III - Colhedoras - JB,1,0702E+12,1070202
-,,Auxiliar Manutenção Automotiva - Colhedoras - JB,1,0702E+12,1070202
-,,Cald/Sold Automotivo II - Colhedoras - JB,1,0702E+12,1070202
-,,Motorista II - Colhedoras JB,1,0702E+12,1070202
-,,Mecanico Automotivo III - Colhedoras JB,1,0702E+12,1070202
-,,Mecanico Automotivo II - Tratores PB,1,0702E+12,1070203
-,,Mecanico Automotivo III - Tratores PB,1,0702E+12,1070203
-,,Cald/Sold Automotivo III - Tratores - PB,1,0702E+12,1070203
-,,Torneiro Mecanico II - Tratores PB,1,0702E+12,1070203
-,,Mecanico Automotivo I - Tratores PB,1,0702E+12,1070203
-,,Mecanico Automotivo III - Tratores PB SNR,1,0702E+12,1070203
-,,Auxiliar Manutenção Automotiva - Tratores - PB,1,0702E+12,1070203
-,,Cald/Sold Automotivo III - Tratores - PB SNR,1,0702E+12,1070203
-,,Cald/Sold Automotivo II - Tratores - JB,1,0702E+12,1070203
-,,Mecanico Automotiva Lider - Tratores PB,1,0702E+12,1070203
-,,Cald/Sold Automotivo I - Tratores - PB,1,0702E+12,1070203
-,,Cald/Sold Automotivo III - Tratores - JB,1,0702E+12,1070203
-,,Mecanico Automotivo II - Tratores JB,1,0702E+12,1070203
-,,Mecanico Automotivo III - Tratores JB SNR,1,0702E+12,1070203
-,,Cald/Sold Automotivo II - Tratores - JB SNR,1,0702E+12,1070203
-,,Cald/Sold Automotivo I - Tratores - JB,1,0702E+12,1070203
-,,Torneiro Mecanico III - Tratores JB,1,0702E+12,1070203
-,,Mecanico Automotiva Lider - Tratores JB,1,0702E+12,1070203
-,,Auxiliar Manutenção Automotiva - Tratores - JB,1,0702E+12,1070203
-,,Mecanico Automotivo III - Tratores JB,1,0702E+12,1070203
-,,Mecanico Automotivo I - Tratores JB,1,0702E+12,1070203
-,,Cald/Sold Automotivo II - Tratores - PB,1,0702E+12,1070203
-,,Aprendiz - Controle Automotiva (JB),1,0703E+12,1070301
-,,Aprendiz - Controle Automotiva (PB),1,0703E+12,1070301
-,,Estagiario - Programa de Estagio Automotiva (JB),1,0704E+12,1070401
-,,Estagiario - Controle Automotiva - PB,1,0704E+12,1070401
-,,Operador Industrial I - Recepção Cana - JB,2,0108E+12,2010801
-,,Operador Industrial II - Recepção Cana - JB,2,0108E+12,2010801
-,,Operador Industrial I - Recepção Cana - PB,2,0108E+12,2010801
-,,Operador Industrial I - Recepção Cana - JB SNR,2,0108E+12,2010801
-,,Mecanico Industrial II - Moagem - JB,2,0108E+12,2010801
-,,Operador Industrial III - Moagem - JB,2,0108E+12,2010801
-,,Soldador Industrial II - Moagem - PB,2,0108E+12,2010801
-,,Mecanico Industrial II - Moagem - PB,2,0108E+12,2010801
-,,Auxiliar Industrial - Moagem - PB,2,0108E+12,2010801
-,,Tecnico Processo Industrial I - Moagem - PB,2,0108E+12,2010801
-,,Operador Industrial III - Moagem - PB SNR,2,0108E+12,2010801
-,,Operador Industrial III - Moagem - PB,2,0108E+12,2010801
-,,Operador Industrial II - Moagem - PB,2,0108E+12,2010801
-,,Tecnico Processo Industrial II - Moagem - JB,2,0108E+12,2010801
-,,Tecnico Processo Industrial II - Moagem - PB,2,0108E+12,2010801
-,,Operador Industrial II - Moagem - JB,2,0108E+12,2010801
-,,Operador Industrial III - COPI Extração - JB,2,0108E+12,2010801
-,,Operador Industrial II - COPI Extração - JB,2,0108E+12,2010801
-,,Mecanico Industrial II - Soldagem - Chapisco - JB,2,0108E+12,2010801
-,,Soldador Industrial II - Soldagem - Chapisco - JB SNR,2,0108E+12,2010801
-,,Soldador Industrial II - Soldagem - Chapisco - PB,2,0108E+12,2010801
-,,Soldador Industrial II - Soldagem - Chapisco - JB,2,0108E+12,2010801
-,,,201080201,2010802
-,,Operador Industrial II - Hidratação de Cal - JB,2,0108E+12,2010802
-,,Tecnico Processo Industrial II - Hidratação de Cal - JB SNR,2,0108E+12,2010802
-,,Operador Industrial I - Hidratação de Cal - JB,2,0108E+12,2010802
-,,Operador Industrial III - Tratamento de Caldo - JB,2,0108E+12,2010802
-,,Operador Industrial II - Tratamento de Caldo - JB,2,0108E+12,2010802
-,,Operador Industrial II - Tratamento de Caldo - PB,2,0108E+12,2010802
-,,Operador Industrial III - Tratamento de Caldo - PB,2,0108E+12,2010802
-,,Operador Industrial I - Tratamento de Caldo - PB,2,0108E+12,2010802
-,,Operador Industrial III - Tratamento de Caldo - PB SNR,2,0108E+12,2010802
-,,,201080202,2010802
-,,,201080203,2010802
-,,Operador Industrial II - Pré Aquecimento/Aquecimento - JB,2,0108E+12,2010802
-,,Operador Industrial I - Pré Aquecimento/Aquecimento - JB,2,0108E+12,2010802
-,,Operador Industrial III - Cozimento - JB,2,0108E+12,2010802
-,,,201080204,2010802
-,,Operador Industrial II - Cozimento - JB,2,0108E+12,2010802
-,,Operador Industrial II - Centrifugação de Açúcar - JB SNR,2,0108E+12,2010802
-,,Operador Industrial II - Centrifugação de Açúcar - JB,2,0108E+12,2010802
-,,,201080205,2010802
-,,,201080206,2010802
-,,,201080207,2010802
-,,Operador Industrial III - COPI Fábrica de Açúcar - JB SNR,2,0108E+12,2010802
-,,Tecnico Processo Industrial II - COPI Fábrica de Açúcar - JB,2,0108E+12,2010802
-,,Operador Industrial II - COPI Fábrica de Açúcar - JB,2,0108E+12,2010802
-,,Operador Industrial III - COPI Fábrica de Açúcar - JB,2,0108E+12,2010802
-,,Operador Industrial I - Fermentação - JB,2,0108E+12,2010803
-,,Operador Industrial II - Fermentação - JB,2,0108E+12,2010803
-,,Operador Industrial II - Fermentação - JB SNR,2,0108E+12,2010803
-,,Operador Industrial II - Fermentação - PB,2,0108E+12,2010803
-,,Operador Industrial I - Fermentação - PB,2,0108E+12,2010803
-,,Operador Industrial II - Centrifugação de Álcool - JB,2,0108E+12,2010803
-,,Operador Industrial I - Centrifugação de Álcool - PB,2,0108E+12,2010803
-,,Operador Industrial II - Destilação Destilaria I - PB,2,0108E+12,2010803
-,,Operador Industrial III - Destilação Destilaria I - PB,2,0108E+12,2010803
-,,Operador Industrial III - Destilação Destilaria I - PB SNR,2,0108E+12,2010803
-,,Tecnico Processo Industrial II - Destilação Destilaria I - PB,2,0108E+12,2010803
-,,Operador Industrial II - Manutenção Destilaria I - JB,2,0108E+12,2010803
-,,Operador Industrial III - Destilação Destilaria II - JB,2,0108E+12,2010803
-,,Tecnico Processo Industrial II - COPI Fábrica de Álcool - JB,2,0108E+12,2010803
-,,Tecnico Processo Industrial II - COPI Fábrica de Álcool - JB SNR,2,0108E+12,2010803
-,,Operador Industrial III - COPI Fábrica de Álcool - PB,2,0108E+12,2010803
-,,Operador Industrial III - Caldeiras - PB SNR,2,0108E+12,2010804
-,,Operador Maq. Agricolas III - Caldeiras - PB,2,0108E+12,2010804
-,,Operador Industrial I - Caldeiras - PB,2,0108E+12,2010804
-,,Operador Maq. Agricolas III - Caldeiras - PB SNR,2,0108E+12,2010804
-,,Operador Industrial III - Caldeiras - PB,2,0108E+12,2010804
-,,Tecnico Processo Industrial II - Caldeiras - PB,2,0108E+12,2010804
-,,Operador Industrial II - Estação de Tratamento de Água - PB,2,0108E+12,2010804
-,,Operador Empilhadeira - Armazenagem de Açúcar - JB,2,01081E+12,2010805
-,,Operador Industrial I - Armazenagem de Açúcar - JB,2,01081E+12,2010805
-,,Operador Ponte Rolante - Armazenagem de Açúcar - JB,2,01081E+12,2010805
-,,Operador Ponte Rolante - Armazenagem de Açúcar - JB SNR,2,01081E+12,2010805
-,,Operador Empilhadeira - Armazenagem de Açúcar - JB SNR,2,01081E+12,2010805
-,,Operador Logistica III - Armazenagem de Açúcar - JB,2,01081E+12,2010805
-,,Operador Logistica III - Armazenagem de Açúcar - JB SNR,2,01081E+12,2010805
-,,Operador Logistica II - Armazenagem de Álcool - JB,2,01081E+12,2010805
-,,Auxiliar Industrial - Armazenagem de Alcool - PB,2,01081E+12,2010805
-,,Carregador Alcool - Armazenagem de Álcool - PB,2,01081E+12,2010805
-,,Aprendiz - Gerencia Industrial - JB,2,0109E+12,2010901
-,,Engenheiro Proc. Industriais - Gerência de Processos Industriais (PB),2,011E+12,2011001
-,,Engenheiro Processos Industriais - Gerencia Industrial JB,2,011E+12,2011001
-,,Especialista Em Processos -  Gerência Industrial  (JB),2,011E+12,2011001
-,,Estagiario - Gerência de Processos Industriais - JB,2,0113E+12,2011301
-,,Estagiario - Gerência de Processos Industriais - JB,2,0113E+12,2011301
-,,Estagiario - Gerência de Processos Industriais - PB,2,0113E+12,2011301
-,,Eletricista Industrial II - Elétrica JB,2,0207E+12,2020701
-,,Eletricista Industrial III - Elétrica - JB,2,0207E+12,2020701
-,,Eletricista Industrial III - Elétrica - PB,2,0207E+12,2020701
-,,Eletricista Industrial III - Elétrica - PB SNR,2,0207E+12,2020701
-,,Operador Gerador II - COPI Gerador de Energia - JB,2,0207E+12,2020701
-,,Operador Industrial III - COPI Gerador de Energia PB,2,0207E+12,2020701
-,,Mecanico Industrial III - Mecânica - PB,2,0207E+12,2020702
-,,Analista Suporte Industrial Sr - Mecânica - PB,2,0207E+12,2020702
-,,Mecanico Industrial II - Mecânica - PB,2,0207E+12,2020702
-,,Mecanico Industrial II - Mecânica - PB SNR,2,0207E+12,2020702
-,,Mecanico Industrial III - Mecânica - JB SNR,2,0207E+12,2020702
-,,Especialista Manutenção Industrial - Mecanica (JB),2,0207E+12,2020702
-,,Mecanico Industrial II - Mecânica - JB,2,0207E+12,2020702
-,,Torneiro Mecanico III - Mecanica - JB,2,0207E+12,2020702
-,,Mecanico Industrial I - Mecânica - JB,2,0207E+12,2020702
-,,Mecanico Industrial III - Mecânica - JB,2,0207E+12,2020702
-,,Torneiro Mecanico III - Usinagem - PB SNR,2,0207E+12,2020702
-,,Caldeireiro Industrial III - Caldeiraria - JB,2,0207E+12,2020703
-,,Torneiro Mecanico III - Caldeiraria - JB,2,0207E+12,2020703
-,,Soldador Industrial III - Caldeiraria - JB,2,0207E+12,2020703
-,,Caldeireiro Industrial III - Caldeiraria - JB SNR,2,0207E+12,2020703
-,,Soldador Industrial III - Caldeiraria - PB,2,0207E+12,2020703
-,,Caldeireiro Industrial III - Caldeiraria - PB SNR,2,0207E+12,2020703
-,,Operador Guindaste - Caldeiraria - PB,2,0207E+12,2020703
-,,Caldeireiro Industrial III - Caldeiraria - PB,2,0207E+12,2020703
-,,Pedreiro - Construção Civil - PB,2,0207E+12,2020703
-,,Auxiliar Construção Civil - Construção Civil - JB,2,0207E+12,2020703
-,,Pedreiro - Construção Civil - JB,2,0207E+12,2020703
-,,Instrumentista III - Instrumentação - JB SNR,2,0207E+12,2020704
-,,Instrumentista III - Instrumentação - PB SNR,2,0207E+12,2020704
-,,Instrumentista III - Instrumentação - PB,2,0207E+12,2020704
-,,Instrumentista II - Instrumentação - PB,2,0207E+12,2020704
-,,Instrumentista III - Instrumentação - JB,2,0207E+12,2020704
-,,Instrumentista II - Instrumentação - JB,2,0207E+12,2020704
-,,Operador Caldeira II - Caldeiras - JB SNR,2,02071E+12,2020705
-,,Operador Caldeira II - Caldeiras - JB,2,02071E+12,2020705
-,,Tecnico Processo Industrial II - Caldeiras - JB,2,02071E+12,2020705
-,,Operador Maq. Agricolas III - Caldeiras (JB),2,02071E+12,2020705
-,,Operador Industrial I - Caldeiras - JB,2,02071E+12,2020705
-,,Tecnico Processo Industrial II - Caldeiras JB,2,02071E+12,2020705
-,,Operador Caldeira III - Caldeiras - JB,2,02071E+12,2020705
-,,Analista PCM Pl - Engenharia de Manutenção Planej. e Projetos - JB,2,0501E+12,2050101
-,,Analista PCM Jr - Engenharia de Manutenção Planej. e Projetos - JB,2,0501E+12,2050101
-,,Engenheiro Projetos - Engenharia Planejamento e Projetos JB,2,0501E+12,2050101
-,,Engenheiro Equipamentos -  Engenharia de Manutenção Planejamento e Pr,2,0501E+12,2050101
-,,Engenheiro Equipamentos -  PCM - Planejamento Controle de Manutenção,2,0501E+12,2050101
-,,Analista PCM Pl - Engenharia de Manutenção Planej. e Projeto - PB,2,0501E+12,2050101
-,,Analista PCM Jr - Engenharia de Manutenção Planej. e Projeto - PB,2,0501E+12,2050101
-,,Analista PCM SR - Engenharia de Manutenção Planej. e Projeto (PB),2,0501E+12,2050101
-,,Assistente Administrativo - Engenharia de Manutenção Planej. e Projet,2,0501E+12,2050101
-,,Engenheiro Projetos - Engenharia Planejamento e Projetos PB,2,0501E+12,2050101
-,,Auxiliar Industrial - Laboratório Industrial - PB,2,0502E+12,2050201
-,,Analista Controle Qualidade Jr - Laboratório Industrial - PB,2,0502E+12,2050201
-,,Analista Controle Qualidade Pl - Laboratório Industrial - PB,2,0502E+12,2050201
-,,Analista PCP Jr - Laboratório Industrial - PB,2,0502E+12,2050201
-,,Estagiario - Coordenação Laboratório - JB,2,0502E+12,2050201
-,,Analista Controle Qualidade Sr - Laboratório Industrial - JB,2,0502E+12,2050201
-,,Analista Controle Qualidade Pl - Laboratório Industrial - JB,2,0502E+12,2050201
-,,Analista Controle Qualidade Sr - Laboratório Industrial - PB,2,0502E+12,2050201
-,,Analista Controle Qualidade Jr - Laboratório PCTS - PB,2,0502E+12,2050201
-,,Analista Controle Qualidade Pl - Laboratório PCTS - JB,2,0502E+12,2050201
-,,Analista Controle Qualidade Jr - Laboratório PCTS - JB,2,0502E+12,2050201
-,,Analista Controle Qualidade Pl - Laboratório PCTS - PB,2,0502E+12,2050201
-,,Auxiliar Limpeza - Limpeza Industrial - PB,2,0502E+12,2050201
-,,Auxiliar Industrial - Limpeza Industrial - JB,2,0502E+12,2050201
-,,Operador Industrial II - Limpeza Industrial (JB),2,0502E+12,2050201
-,,Analista PCP Jr - Controle Laboratório Ind - JB,2,0502E+12,2050201
-,,Analista Sist Qualidade Pl - Sistema da Qualidade - JB,2,0503E+12,2050301
-,,Analista Sist Qualidade Jr - Sistema da Qualidade - JB,2,0503E+12,2050301
-,,Operador Maq. Agrícola I - Irrigação - JB,2,0601E+12,2060104
-,,Operador Maq. Agricolas II - Irrigação - PB,2,0601E+12,2060104
-,,Analista Contabil Sr - Contabilidade - JB,3,0101E+12,3010102
-,,Analista Contabil Pl - Contabilidade - JB,3,0101E+12,3010102
-,,Analista Controle Interno JR - Fiscal (JB),3,0101E+12,3010104
-,,Analista Tributario Sr - Fiscal - JB,3,0101E+12,3010104
-,,Analista Tributario Jr - Fiscal - JB,3,0101E+12,3010104
-,,Assistente Administrativo - Fiscal - JB,3,0101E+12,3010104
-,,Especialista Risco e Contr.Int - Fiscal (JB),3,0101E+12,3010104
-,,Analista Tributario Pl - Fiscal - JB,3,0101E+12,3010104
-,,Faturista - Celula de Receb. e Faturamento  PB,3,01011E+12,3010105
-,,Assistente Administrativo - Celula de Receb. e Faturamento - JB,3,01011E+12,3010105
-,,Faturista - Celula de Receb. e Faturamento  JB,3,01011E+12,3010105
-,,Assistente Administrativo - Celula de Receb. e Faturamento - PB,3,01011E+12,3010105
-,,Analista Fiscal Jr - Celula de Receb. e Faturamento - PB,3,01011E+12,3010105
-,,Analista Contratos Sr - Celula de Cadastro e Contrato - JB,3,01011E+12,3010106
-,,Analista Contratos Pl - Celula de Cadastro e Contrato - JB,3,01011E+12,3010106
-,,Analista Custos e Orçamento Pl - Planejamento e Custo - JB,3,0103E+12,3010301
-,,Analista Custos e Orçamento Jr - Planejamento e Custo - JB,3,0103E+12,3010301
-,,Assistente Administrativo - Planejamento e Custo - JB,3,0103E+12,3010301
-,,Analista Custos e Orçamento Sr - Planejamento e Custo - JB,3,0103E+12,3010301
-,,Assistente Administrativo - Financeiro - JB,3,0104E+12,3010401
-,,Analista Financeiro Jr - Financeiro - JB,3,0104E+12,3010401
-,,Analista Financeiro Sr - Financeiro - JB,3,0104E+12,3010401
-,,Analista Financeiro Pl - Financeiro - JB,3,0104E+12,3010401
-,,Analista Sistema SR - TI - Sistemas (JB),3,0203E+12,3020301
-,,Tecnico Sistemas - TI - Sistemas (JB),3,0203E+12,3020301
-,,Analista Sistemas Pl - TI - Sistemas - JB,3,0203E+12,3020301
-,,Analista Suporte TI Jr - TI - Infraestrutura Aplicações - JB,3,0204E+12,3020401
-,,Analista Infraestrutura TI SR - TI - Infraestrutura Aplicações (JB),3,0204E+12,3020401
-,,Analista Suporte TI Pl - TI - Infraestrutura Equipamentos - JB,3,0204E+12,3020401
-,,Estagiario - TI - Infraestrutura Equipamentos (JB),3,0204E+12,3020401
-,,Analista Segurança Informação PL - Infraestrutura Equipamentos (JB),3,0204E+12,3020401
-,,Tecnico Informatica - TI - Infraestrutura Equipamentos (JB),3,0204E+12,3020401
-,,Analista Suporte JR - TI - Infraestrutura Equipamentos (PB),3,0204E+12,3020401
-,,Analista Infraestrutura TI Sr - Infraestrutura Equipamentos (PB),3,0204E+12,3020401
-,,Aprendiz - Programa Jovem Aprendiz - Infraestrutura - JB,3,0204E+12,3020401
-,,Tecnico Desenvolv. Software - TI - Transformação Digital JB,3,0205E+12,3020501
-,,Analista Transformação Digital JR - Transformação Digital (JB),3,0205E+12,3020501
-,,Analista Desenv. Software - TI - JB,3,0205E+12,3020501
-,,Aprendiz - Controladoria JB,3,0206E+12,3020601
-,,Almoxarife II - Almoxarifado - PB,3,0401E+12,3040101
-,,Almoxarife III - Almoxarifado - PB,3,0401E+12,3040101
-,,Motorista I - Almoxarifado - PB,3,0401E+12,3040101
-,,Almoxarife I - Almoxarifado Automotivo - PB,3,0401E+12,3040101
-,,Almoxarife I - Almoxarifado - PB,3,0401E+12,3040101
-,,Almoxarife II - Almoxarifado - JB,3,0401E+12,3040101
-,,Almoxarife I - Almoxarifado - JB,3,0401E+12,3040101
-,,Motorista Administrativo - Almoxarifado - JB,3,0401E+12,3040101
-,,Lider Materiais - Almoxarifado - JB,3,0401E+12,3040101
-,,Motorista I - Almoxarifado - JB,3,0401E+12,3040101
-,,Aprendiz - Almoxarifado - JB,3,0401E+12,3040101
-,,Almoxarife III - Almoxarifado - JB,3,0401E+12,3040101
-,,Frentista - Postos de Abastecimento  JB,3,0401E+12,3040101
-,,Frentista - Posto de Abastecimento  PB,3,0401E+12,3040101
-,,Analista Planejamento PL - Planejamento de Almoxarifado (JB),3,0401E+12,3040101
-,,Comprador Jr - Compras - JB,3,0403E+12,3040301
-,,Comprador Sr - Compras - JB,3,0403E+12,3040301
-,,Assistente administrativo - Compras JB,3,0403E+12,3040301
-,,Comprador Pl - Compras - JB,3,0403E+12,3040301
-,,Comprador Jr - Compras - PB,3,0403E+12,3040301
-,,Assistente Administrativo - Negócios PB,3,0403E+12,3040301
-,,Analista Inteligência de Mercado Sr - Negocios JB,3,0407E+12,3040701
-,,Analista Negocios Jr - Negocios - JB,3,0407E+12,3040701
-,,Aprendiz - Negocios (JB),3,0407E+12,3040701
-,,Porteiro - Portaria  JB,3,0901E+12,3090101
-,,Assistente Administrativo - Seg. Patrimonial e Vigil. PB,3,0901E+12,3090101
-,,Porteiro - Portaria  PB,3,0901E+12,3090101
-,,Auxiliar Limpeza - Serviços - JB,3,0901E+12,3090101
-,,Zelador - Serviços - JB,3,0901E+12,3090101
-,,Copeira - Serviços  JB,3,0901E+12,3090101
-,,Auxiliar Limpeza - Serviços - PB,3,0901E+12,3090101
-,,Assistente Administrativo - Recepção - JB,3,0901E+12,3090101
-,,Assistente Administrativo - Serviços - PB,3,0901E+12,3090101
-,,Recepcionista - Recepção  PB,3,0901E+12,3090101
-,,Eletricista Predial II - Infraestrutura Facilities - PB,3,0901E+12,3090102
-,,Motorista Administrativo - Facilities - PB,3,0901E+12,3090102
-,,Assistente Administrativo - Infraestrutura Facilities - JB,3,0901E+12,3090102
-,,Analista Facilities Jr - Infraestrutura Facilities - JB,3,0901E+12,3090102
-,,Pedreiro - Infraestrutura Facilities - JB,3,0901E+12,3090102
-,,Motorista Administrativo - Infraestrutura Facilities - JB,3,0901E+12,3090102
-,,Eletricista Predial II - Infraestrutura Facilities - JB,3,0901E+12,3090102
-,,Pedreiro - Facilities - PB,3,0901E+12,3090102
-,,Operador Maq. Agricolas I - Jardinagem e Paisagismo - PB,3,0901E+12,3090103
-,,Motorista II - Jardinagem e Paisagismo - PB,3,0901E+12,3090103
-,,Operador Maq. Agricolas II - Jardinagem e Paisagismo  JB,3,0901E+12,3090103
-,,Auxiliar Agricola - Jardinagem e Paisagismo - JB,3,0901E+12,3090103
-,,Lider agricola - Jardinagem e Paisagismo - JB,3,0901E+12,3090103
-,,Motorista II - Jardinagem e Paisagismo  JB,3,0901E+12,3090103
-,,Auxiliar Agricola - Jardinagem e Paisagismo - PB,3,0901E+12,3090103
-,,Consultor Excelência Empresarial SR - Excelência Empresarial - PB,3,1001E+12,3100101
-,,Analista Melhoria Continua - Excelência Empresarial - JB,3,1001E+12,3100101
-,,Consultor Excelência Empresarial PL - Excelência Empresarial - JB,3,1001E+12,3100101
-,,Consultor Excelência Empresarial JR - Excelência Empresarial - JB,3,1001E+12,3100101
-,,Assistente Melhoria Continua - Excelência Empresarial - JB,3,1001E+12,3100101
-,,Aprendiz - Programa Excelência Empresarial - JB,3,1001E+12,3100101
-,,Assistente Administrativo - Escritório de Projetos (JB),3,1001E+12,3100102
-,,Analista Projetos PL - Escritorio de Projetos (JB),3,1001E+12,3100102
-,,Analista Recursos Humanos Jr - Treinamento - PB,5,01011E+12,5010106
-,,Assistente Administrativo - Treinamento e Desenvolvimento PB,5,01011E+12,5010106
-,,Analista Recursos Humanos Jr - Treinamento - JB,5,01011E+12,5010106
-,,Analista Recursos Humanos Sr - Treinamento - JB,5,01011E+12,5010106
-,,Estagiario - Treinamento & Desenvolvimento (JB),5,01011E+12,5010106
-,,Analista Recursos Humanos Pl - Recrutamento & Seleção - JB,5,01011E+12,5010106
-,,Analista Recursos Humanos Jr - Recrutamento & Seleção - JB,5,01011E+12,5010106
-,,Analista Recursos Humanos Jr - Recrutamento & Seleção - PB,5,01011E+12,5010106
-,,Instrutor Treinamento - Centro de Treinamento  JB,5,01011E+12,5010106
-,,Instrutor Treinamento - Centro de Treinamento  PB,5,01011E+12,5010106
-,,Estagiario - Recrutamento e Seleção (PB),5,01011E+12,5010106
-,,Analista BI Jr - Administração de Pessoal - JB,5,0102E+12,5010201
-,,Analista Recursos Humanos Pl - Beneficios e Remuneração - JB,5,0102E+12,5010201
-,,Especialista Recursos Humanos - Remuneração e Beneficios JB,5,0102E+12,5010201
-,,Analista Recursos Humanos Jr - Remuneração e Beneficos - JB,5,0102E+12,5010201
-,,Analista Recursos Humanos Pl - Folha de Pagamento - PB,5,0102E+12,5010201
-,,Analista Recursos Humanos Sr - Folha de Pagamento - JB,5,0102E+12,5010201
-,,Analista Recursos Humanos Jr - Gestão Jornada de Trabalho - JB,5,0102E+12,5010201
-,,Assistente Adminitrativo - Gestão Jornada de Trabalho - PB,5,0102E+12,5010201
-,,Assistente Administrativo - Admissão/Cédula de Cadastro - PB,5,0102E+12,5010201
-,,Assistente Administrativo - Admissão/Cédula de Cadastro - JB,5,0102E+12,5010201
-,,Estagiario - Administração de Pessoal - JB,5,0102E+12,5010201
-,,Aprendiz - Programa jovem Aprendiz - Administração de Pessoal JB,5,0102E+12,5010201
-,,Secretaria Diretoria - Secretaria da Diretoria  JB,5,0102E+12,5010202
-,,Operador Industrial II - Sindicalistas  JB,5,0102E+12,5010203
-,,Analista Controle Qualidade Pl - Sindicalistas - JB,5,0102E+12,5010203
-,,Almoxarife II - Recepção Restaurante - JB,5,01031E+12,5010307
-,,Açougueiro - Açougue - JB,5,01031E+12,5010307
-,,Açougueiro - Açougue - PB,5,01031E+12,5010307
-,,Auxiliar Administrativo - Restaurante - PB,5,01031E+12,5010307
-,,Meio Oficial de Cozinha - Cozinha PB,5,01031E+12,5010307
-,,Aprendiz - Cozinha - JB,5,01031E+12,5010307
-,,Auxiliar Restaurante - Cozinha - JB,5,01031E+12,5010307
-,,Cozinheira - Cozinha  JB,5,01031E+12,5010307
-,,Auxiliar Restaurante - Cozinha - PB,5,01031E+12,5010307
-,,Cozinheira - Cozinha  PB,5,01031E+12,5010307
-,,Meio Oficial Cozinha - Cozinha  JB,5,01031E+12,5010307
-,,Auxiliar Restaurante - Limpeza Restaurante - JB,5,01031E+12,5010307
-,,Auxiliar Restaurante - Restaurante - JB,5,01031E+12,5010307
-,,Almoxarife I - Almoxarifado Restaurante - PB,5,01031E+12,5010307
-,,Analista Comunicação Jr - Comunicação - JB,5,0104E+12,5010401
-,,Assistente Administrativo - Comunicação (PB),5,0104E+12,5010401
-,,Analista Responsabilidade Social - Responsabilidade Social - JB,5,0104E+12,5010401
-,,Motorista Administrativo - Serviços - JB,5,0106E+12,5010604
-,,Consultor Interno RH - Recursos Humanos (PEC) - JB,5,0107E+12,5010701
-,,Consultor Interno RH - Recursos Humanos (DOP) - JB,5,0107E+12,5010701
-,,Consultor Interno RH - Recursos Humanos (DAF) - JB,5,0107E+12,5010701
-,,Advogado Pl - Juridico - JB,5,011E+12,5011001
-,,Analista Juridico JR - Jurídico JB,5,011E+12,5011001
-,,Advogado Sr - Jurídico - PB,5,011E+12,5011001
-,,Advogado Pl - Jurídico - PB,5,011E+12,5011001
-,,Assistente Administrativo - Jurídico - PB,5,011E+12,5011001
-,,Estagiario - Jurídico (JB),5,011E+12,5011001
-,,Técnico Meio Ambiente - Meio ambiente PB,5,0402E+12,5040201
-,,Aprendiz -  Meio Ambiente - JB,5,0402E+12,5040201
-,,Assistente Administrativo - Meio Ambiente (JB),5,0402E+12,5040201
-,,Analista Meio Ambiente - Meio Ambiente - JB,5,0402E+12,5040201
-,,Analista Meio Ambiente - Meio Ambiente - PB,5,0402E+12,5040201
-,,Médico do Trabalho - Saúde do Trabalho - PB,5,0404E+12,5040401
-,,Tecnico Enfermagem do Trabalho - Saúde do Trabalho - PB,5,0404E+12,5040401
-,,Tecnico Enfermagem do Trabalho - Saúde do Trabalho  JB,5,0404E+12,5040401
-,,Estagiario - Saúde do Trabalho - PB,5,0404E+12,5040401
-,,Medico do Trabalho - Saúde do Trabalho  JB,5,0404E+12,5040401
-,,Fonoaudiologa - Saúde do Trabalho - PB,5,0404E+12,5040401
-,,Aprendiz - Saúde do Trabalho - JB,5,0404E+12,5040401
-,,Tecnico Enfermagem do Trabalho - Saúde do Trabalho  PB,5,0404E+12,5040401
-,,Assistente Administrativo - Segurança do Trabalho - PB,5,0405E+12,5040501
-,,Tecnico Seg. do Trabalho Sr - Segurança do Trabalho  PB,5,0405E+12,5040501
-,,Tecnico Seg. do Trabalho Pl - Segurança do Trabalho  PB,5,0405E+12,5040501
-,,Analista SSMA JR - Segurança do Trabalho - JB,5,0405E+12,5040501
-,,Estagiario - Segurança do Trabalho,5,0405E+12,5040501
-,,Auxiliar de Limpeza - Segurança do Trabalho - JB,5,0405E+12,5040501
-,,Técnico Segurança do Trabalho PL - Segurança do Trabalho (JB),5,0405E+12,5040501
-,,Tecnico Seg. do Trabalho JR - Segurança do Trabalho - JB,5,0405E+12,5040501
-,,Tecnico Seg. do Trabalho JR - Segurança do Trabalho  PB,5,0405E+12,5040501
-,,Tecnico Seg. do Trabalho Sr - Segurança do Trabalho  JB,5,0405E+12,5040501
+name;imageUrl;positionName;id;parentId
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Presidente;0;
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Diretor Agr�cola;1;0
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Diretor Industrial;2;0
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Diretor Administrativo Financeiro;3;0
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Planejamento e Controle e Tecnologia - JB;104;1
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Relac. com Fornecedor - Ger Relac. com Fornec e Parceiros - JB;105;1
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Processos Agr�cola -  Ger�ncia Agr�cola - PB;106;1
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Processos Agricola - Gerencia Agricola - JB;108;1
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Manuten��o Agricola -  Ger�ncia de Recursos Mecanizados - JB;107;1
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Processos Industriais -  Ind�stria - JB;201;2
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Processos Industriais -  Ind�stria - PB;202;2
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Engenharia e Qualidade - Engenharia PB;205;2
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Controladoria - Controladoria - JB;301;3
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Tecnologia Informa��o -  Ger�ncia TI - JB;302;3
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Suprimentos -  Ger�ncia de Suprimentos - JB;304;3
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Juridico/Recursos Humanos - Juridico/RH - JB;501;5
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente SSMA - SSMA JB;504;5
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Controles Agricolas -  Sup. Gest�o Estrat. e Planej. - JB;10401;104
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Agricola - Supervisao Engenharia Agricola Agronomica - JB;10402;104
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Agricola - Supervisao Engenharia Agricola Agronomica - PB;10404;104
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Geotecnologia - Novas Tecnologias Agr�colas (JB);10403;104
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Relac. Forn. e Parc -  Sup Relacionamento com Fornec e Parc;10501;105
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Agricola -  Colheita - PB;10601;106
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Agricola -  Colheita - JB;10602;106
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Agricola - PPT (JB);10603;106
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Agricola - Tratos Culturais - PB;10604;106
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Agricola - PPT - PB;10605;106
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Irriga��o - Irriga��o PB;10606;106
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Manut. Automotiva -  Recursos Mecanizados - PB;10702;107
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Manut. Automotiva -  Recursos Mecanizados - JB;10701;107
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Prod. A��car/Etanol - Supervis�o Processos Industriais (PB);20108;201
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Manut. Industrial -  Mec�nica e Usinagem  (JB);20207;202
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Manut. Industrial -  El�trica e Instrumenta��o SNR - PB;20208;202
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Proc. Industriais - Engenharia de Manuten��o Planejamento;20501;205
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Engenharia - Eng. Manut. Planej. Proj. - JB;20502;205
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Contabil / Fiscal -  Contabilidade - JB;30101;301
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Custos / Or�amento -  Planejamento e Custos - JB;30103;301
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Financeiro -  Sup - Financeiro - JB;30104;301
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor TI -  Sup - TI Sistema - JB;30203;302
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor TI -  Sup - TI Infraestrutura - PB;30204;302
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Transf. Digital - TI - Transforma��o Digital (JB);30205;302
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Suprimentos - Suprimentos - JB;30401;304
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Suprimentos - Sup. Compras - JB;30403;304
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor de Facilities - Facilities - JB;30901;309
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Excelencia e Projetos - Supervis�o Excel�ncia e Projetos JB;31001;310
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Recursos Humanos DO - Desenvolvimento JB;50101;501
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Recursos Humanos - Supervis�o Administra��o de Pessoal - JB;50102;501
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisora Restaurante -  Supervis�o Restaurante - JB;50103;501
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Meio Ambiente -  Meio Ambiente - JB;50402;504
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Saude - Saude do Trabalho - JB;50404;504
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Seg. do Trabalho - Supervis�o Seguran�a do Trabalho (JB);50405;504
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Seg. do Trabalho - Supervis�o Seguran�a do Trabalho - PB;50406;504
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Controle Agricola - Coordenador Controle Agricola JB;1040101;10401
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Coordena��o Fitossanidade - PB;1040201;10404
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Fitosanidade / Viveiros / Ensaios - JB;1040202;10402
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Combate a Inc�ndio Turno C - PB;1060101;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Combate a Inc�ndio Turno B - PB;1060139;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;L�der Agr�cola - Gest�o da Colheita - PB;1060102;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;L�der Agr�cola - Gest�o da Colheita - PB;1060128;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Transp. Canav. Turno B - PB;1060129;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Frentes de Colheita 3 e 4 Turno A - PB;1060130;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;L�der Agr�cola - Gest�o da Colheita - PB;1060131;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola -  Frente Colheita - PB;1060132;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;L�der Agr�cola - Gest�o da Colheita - PB;1060133;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;L�der Agr�cola - Gest�o da Colheita - PB;1060134;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Frentes de Colheita 5 e 6 Turno C - PB;1060135;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Frentes de Colheita 5 e 6 Turno A - PB;1060136;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Frentes de Colheita 5 e 6 Turno B - PB;1060137;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Transp. Canav. Turno A - PB;1060138;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;L�der Agr�cola - Gest�o da Colheita - JB;106012;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;L�der Agr�cola - Gest�o da Colheita - JB;1060126;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Frentes de Colheita 5 e 6 Turno C - JB;1060125;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Frentes de Colheita 2 e 4 Turno B - JB;1060124;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Frentes de Colheita 5 e 6 Turno A - JB;1060122;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Frentes de Colheita 3 e Transporte Turno A - JB;1060123;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;L�der Agr�cola - Gest�o da Colheita - JB;1060120;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Frentes de Colheita 3 e Transporte Turno B - JB;1060119;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;L�der Agr�cola - Gest�o da Colheita - JB;1060118;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Logistica/Apoio - PB;1060103;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Central - JB;1060117;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agr�cola - Irriga��o - JB;1060201;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Fertirriga��o - PB;1060216;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Irriga��o Turno A - PB;1060215;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Irriga��o - PB;1060202;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Coordena��o aduba��o (JB);1060214;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Coordena��o Herbicida (JB);1060203;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Preparo de Solo - PB;1060204;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Plantio - JB;1060205;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola _ Plantio Entressafra;1060206;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - MDO Rural - JB;1060207;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Laborat�rio de Solos - JB;1060209;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Tratos Culturais - PB;1060212;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Tratos Culturais - PB;1060213;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;L�der Agr�cola - Irriga��o - PB;1060301;10603
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;L�der Agr�cola - Irriga��o - PB;1060306;10603
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Coordena��o Irriga��o - PB;1060305;10603
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Coordena��o Irriga��o - PB;1060304;10603
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Coordena��o Irriga��o - PB;1060303;10603
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Agricola - Coordena��o Irriga��o - PB;1060302;10603
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Manut. Automotiva -  Caminh�es e Prim�ria - JB;1070201;10702
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Manut. Automotiva -  Caminh�es e Prim�ria - PB;1070206;10702
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Manuten��o Automotiva -  Colhedora - PB;1070202;10702
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Manut. Automotiva -  Colhedoras Interna  (JB);1070205;10702
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Manut. Automotiva -  Tratores Interno - PB;1070203;10702
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Manut. Automotiva -  Tratores (JB);1070204;10702
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Proc. Industriais -  Extra��o - PB;2010801;20108
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Proc. Industriais -  Extra��o - JB;2010809;20108
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Coordenador Proc. Industriais -  F�brica de A��car - JB;2010802;20108
