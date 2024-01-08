@@ -1,16 +1,16 @@
-name;imageUrl;positionName;id;parentId
-xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;CTO ;O-6066;
-xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;CTO ;O-6067;O-6066
-xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;CTO ;O-6068;O-6066
-xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;CTO ;O-6069;O-6066
-xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;CTO ;O-6070;O-6066
-xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;CTO ;O-6071;O-6067
-xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;CTO ;O-6072;O-6067
-xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;CTO ;O-6073;O-6067
-xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;CTO ;O-6074;O-6067
-xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;CTO ;O-6075;O-6067
-xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;CTO ;O-6076;O-6067
-xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;CTO ;O-6077;O-6067
-xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;CTO ;O-6078;O-6067
-xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;CTO ;O-6079;O-6067
-xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;CTO ;O-6080;O-6068
+name,imageUrl,positionName,id,parentId
+xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,CTO ,O-6066,
+xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,CTO ,O-6067,O-6066
+xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,CTO ,O-6068,O-6066
+xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,CTO ,O-6069,O-6066
+xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,CTO ,O-6070,O-6066
+xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,CTO ,O-6071,O-6067
+xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,CTO ,O-6072,O-6067
+xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,CTO ,O-6073,O-6067
+xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,CTO ,O-6074,O-6067
+xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,CTO ,O-6075,O-6067
+xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,CTO ,O-6076,O-6067
+xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,CTO ,O-6077,O-6067
+xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,CTO ,O-6078,O-6067
+xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,CTO ,O-6079,O-6067
+xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,CTO ,O-6080,O-6068
