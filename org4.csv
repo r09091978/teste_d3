@@ -1,6 +1,6 @@
 ﻿name,imageUrl,positionName,id,parentId
-Josmar Verillo,https://raw.githubusercontent.com/r09091978/teste_d3/main/icone.png,Presidente,O-00.,
-Cassio Manin Paggiaro,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Diretor Agrícola,O-01.,O-00.
+Josmar Verillo,https://raw.githubusercontent.com/r09091978/teste_d3/main/face.png,Presidente,O-00.,
+Cassio Manin Paggiaro,https://raw.githubusercontent.com/r09091978/teste_d3/main/face2.png,Diretor Agrícola,O-01.,O-00.
 [nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Planejamento e Controle e Tecnologia - JB,O-01.04.,O-01.
 [nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Controles Agricolas -  Sup. Gestão Estrat. e Planej. - JB,O-01.04.01,O-01.04.
 [nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Agricola - Supervisao Engenharia Agricola Agronomica - JB,O-01.04.02,O-01.04.
