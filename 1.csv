@@ -1,5 +1,0 @@
-﻿name;imageUrl;area;profileUrl;office;tags;isLoggedUser;positionName;id;parentId;size
-A;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg;Corporate;http://example.com/employee/profile;CTO office;Ceo,tag1,manager,cto;FALSE;Presidente;O-6067;;
-B;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg;Corporate;http://example.com/employee/profile;CTO office;Ceo,tag1,manager,cto;FALSE;Diretor Administrativo Financeiro;O-6060;O-6067;
-C;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg;Corporate;http://example.com/employee/profile;CTO office;Ceo,tag1,manager,cto;FALSE;Diretor Agrícola;O-6061;O-6067;
-D;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg;Corporate;http://example.com/employee/profile;CTO office;Ceo,tag1,manager,cto;FALSE;Diretor Industrial;O-6062;O-6067;
