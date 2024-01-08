@@ -1,109 +1,109 @@
-name,imageUrl,positionName,id,parentId
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Presidente,0,
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Diretor Agr√≠cola,1,0
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Diretor Industrial,2,0
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Diretor Administrativo Financeiro,3,0
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Planejamento e Controle e Tecnologia - JB,104,1
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Relac. com Fornecedor - Ger Relac. com Fornec e Parceiros - JB,105,1
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Processos Agr√≠cola -  Ger√™ncia Agr√≠cola - PB,106,1
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Processos Agricola - Gerencia Agricola - JB,108,1
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Manuten√ß√£o Agricola -  Ger√™ncia de Recursos Mecanizados - JB,107,1
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Processos Industriais -  Ind√∫stria - JB,201,2
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Processos Industriais -  Ind√∫stria - PB,202,2
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Engenharia e Qualidade - Engenharia PB,205,2
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Controladoria - Controladoria - JB,301,3
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Tecnologia Informa√ß√£o -  Ger√™ncia TI - JB,302,3
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Suprimentos -  Ger√™ncia de Suprimentos - JB,304,3
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Juridico/Recursos Humanos - Juridico/RH - JB,501,5
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente SSMA - SSMA JB,504,5
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Controles Agricolas -  Sup. Gest√£o Estrat. e Planej. - JB,10401,104
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Agricola - Supervisao Engenharia Agricola Agronomica - JB,10402,104
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Agricola - Supervisao Engenharia Agricola Agronomica - PB,10404,104
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Geotecnologia - Novas Tecnologias Agr√≠colas (JB),10403,104
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Relac. Forn. e Parc -  Sup Relacionamento com Fornec e Parc,10501,105
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Agricola -  Colheita - PB,10601,106
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Agricola -  Colheita - JB,10602,106
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Agricola - PPT (JB),10603,106
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Agricola - Tratos Culturais - PB,10604,106
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Agricola - PPT - PB,10605,106
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Irriga√ß√£o - Irriga√ß√£o PB,10606,106
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Manut. Automotiva -  Recursos Mecanizados - PB,10702,107
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Manut. Automotiva -  Recursos Mecanizados - JB,10701,107
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Prod. A√ß√∫car/Etanol - Supervis√£o Processos Industriais (PB),20108,201
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Manut. Industrial -  Mec√¢nica e Usinagem  (JB),20207,202
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Manut. Industrial -  El√©trica e Instrumenta√ß√£o SNR - PB,20208,202
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Proc. Industriais - Engenharia de Manuten√ß√£o Planejamento,20501,205
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Engenharia - Eng. Manut. Planej. Proj. - JB,20502,205
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Contabil / Fiscal -  Contabilidade - JB,30101,301
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Custos / Or√ßamento -  Planejamento e Custos - JB,30103,301
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Financeiro -  Sup - Financeiro - JB,30104,301
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor TI -  Sup - TI Sistema - JB,30203,302
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor TI -  Sup - TI Infraestrutura - PB,30204,302
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Transf. Digital - TI - Transforma√ß√£o Digital (JB),30205,302
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Suprimentos - Suprimentos - JB,30401,304
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Suprimentos - Sup. Compras - JB,30403,304
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor de Facilities - Facilities - JB,30901,309
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Excelencia e Projetos - Supervis√£o Excel√™ncia e Projetos JB,31001,310
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Recursos Humanos DO - Desenvolvimento JB,50101,501
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Recursos Humanos - Supervis√£o Administra√ß√£o de Pessoal - JB,50102,501
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisora Restaurante -  Supervis√£o Restaurante - JB,50103,501
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Meio Ambiente -  Meio Ambiente - JB,50402,504
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Saude - Saude do Trabalho - JB,50404,504
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Seg. do Trabalho - Supervis√£o Seguran√ßa do Trabalho (JB),50405,504
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Seg. do Trabalho - Supervis√£o Seguran√ßa do Trabalho - PB,50406,504
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Controle Agricola - Coordenador Controle Agricola JB,1040101,10401
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Coordena√ß√£o Fitossanidade - PB,1040201,10404
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Fitosanidade / Viveiros / Ensaios - JB,1040202,10402
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Combate a Inc√™ndio Turno C - PB,1060101,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Combate a Inc√™ndio Turno B - PB,1060139,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,L√≠der Agr√≠cola - Gest√£o da Colheita - PB,1060102,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,L√≠der Agr√≠cola - Gest√£o da Colheita - PB,1060128,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Transp. Canav. Turno B - PB,1060129,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Frentes de Colheita 3 e 4 Turno A - PB,1060130,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,L√≠der Agr√≠cola - Gest√£o da Colheita - PB,1060131,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola -  Frente Colheita - PB,1060132,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,L√≠der Agr√≠cola - Gest√£o da Colheita - PB,1060133,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,L√≠der Agr√≠cola - Gest√£o da Colheita - PB,1060134,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Frentes de Colheita 5 e 6 Turno C - PB,1060135,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Frentes de Colheita 5 e 6 Turno A - PB,1060136,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Frentes de Colheita 5 e 6 Turno B - PB,1060137,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Transp. Canav. Turno A - PB,1060138,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,L√≠der Agr√≠cola - Gest√£o da Colheita - JB,106012,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,L√≠der Agr√≠cola - Gest√£o da Colheita - JB,1060126,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Frentes de Colheita 5 e 6 Turno C - JB,1060125,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Frentes de Colheita 2 e 4 Turno B - JB,1060124,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Frentes de Colheita 5 e 6 Turno A - JB,1060122,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Frentes de Colheita 3 e Transporte Turno A - JB,1060123,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,L√≠der Agr√≠cola - Gest√£o da Colheita - JB,1060120,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Frentes de Colheita 3 e Transporte Turno B - JB,1060119,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,L√≠der Agr√≠cola - Gest√£o da Colheita - JB,1060118,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Logistica/Apoio - PB,1060103,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Central - JB,1060117,10601
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agr√≠cola - Irriga√ß√£o - JB,1060201,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Fertirriga√ß√£o - PB,1060216,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Irriga√ß√£o Turno A - PB,1060215,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Irriga√ß√£o - PB,1060202,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Coordena√ß√£o aduba√ß√£o (JB),1060214,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Coordena√ß√£o Herbicida (JB),1060203,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Preparo de Solo - PB,1060204,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Plantio - JB,1060205,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola _ Plantio Entressafra,1060206,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - MDO Rural - JB,1060207,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Laborat√≥rio de Solos - JB,1060209,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Tratos Culturais - PB,1060212,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Tratos Culturais - PB,1060213,10602
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,L√≠der Agr√≠cola - Irriga√ß√£o - PB,1060301,10603
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,L√≠der Agr√≠cola - Irriga√ß√£o - PB,1060306,10603
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Coordena√ß√£o Irriga√ß√£o - PB,1060305,10603
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Coordena√ß√£o Irriga√ß√£o - PB,1060304,10603
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Coordena√ß√£o Irriga√ß√£o - PB,1060303,10603
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Agricola - Coordena√ß√£o Irriga√ß√£o - PB,1060302,10603
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Manut. Automotiva -  Caminh√µes e Prim√°ria - JB,1070201,10702
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Manut. Automotiva -  Caminh√µes e Prim√°ria - PB,1070206,10702
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Manuten√ß√£o Automotiva -  Colhedora - PB,1070202,10702
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Manut. Automotiva -  Colhedoras Interna  (JB),1070205,10702
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Manut. Automotiva -  Tratores Interno - PB,1070203,10702
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Manut. Automotiva -  Tratores (JB),1070204,10702
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Proc. Industriais -  Extra√ß√£o - PB,2010801,20108
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Proc. Industriais -  Extra√ß√£o - JB,2010809,20108
-xx xxxx,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Coordenador Proc. Industriais -  F√°brica de A√ß√∫car - JB,2010802,20108
+name;imageUrl;area;positionName;id;parentId
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Presidente;0;
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Diretor AgrÌcola;1;0
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Diretor Industrial;2;0
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Diretor Administrativo Financeiro;3;0
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Gerente Planejamento e Controle e Tecnologia - JB;104;1
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Gerente Relac. com Fornecedor - Ger Relac. com Fornec e Parceiros - JB;105;1
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Gerente Processos AgrÌcola -  GerÍncia AgrÌcola - PB;106;1
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Gerente Processos Agricola - Gerencia Agricola - JB;108;1
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Gerente ManutenÁ„o Agricola -  GerÍncia de Recursos Mecanizados - JB;107;1
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Gerente Processos Industriais -  Ind˙stria - JB;201;2
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Gerente Processos Industriais -  Ind˙stria - PB;202;2
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Gerente Engenharia e Qualidade - Engenharia PB;205;2
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Gerente Controladoria - Controladoria - JB;301;3
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Gerente Tecnologia InformaÁ„o -  GerÍncia TI - JB;302;3
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Gerente Suprimentos -  GerÍncia de Suprimentos - JB;304;3
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Gerente Juridico/Recursos Humanos - Juridico/RH - JB;501;5
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Gerente SSMA - SSMA JB;504;5
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Controles Agricolas -  Sup. Gest„o Estrat. e Planej. - JB;10401;104
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Agricola - Supervisao Engenharia Agricola Agronomica - JB;10402;104
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Agricola - Supervisao Engenharia Agricola Agronomica - PB;10404;104
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Geotecnologia - Novas Tecnologias AgrÌcolas (JB);10403;104
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Relac. Forn. e Parc -  Sup Relacionamento com Fornec e Parc;10501;105
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Agricola -  Colheita - PB;10601;106
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Agricola -  Colheita - JB;10602;106
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Agricola - PPT (JB);10603;106
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Agricola - Tratos Culturais - PB;10604;106
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Agricola - PPT - PB;10605;106
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor IrrigaÁ„o - IrrigaÁ„o PB;10606;106
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Manut. Automotiva -  Recursos Mecanizados - PB;10702;107
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Manut. Automotiva -  Recursos Mecanizados - JB;10701;107
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Prod. AÁ˙car/Etanol - Supervis„o Processos Industriais (PB);20108;201
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Manut. Industrial -  Mec‚nica e Usinagem  (JB);20207;202
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Manut. Industrial -  ElÈtrica e InstrumentaÁ„o SNR - PB;20208;202
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Proc. Industriais - Engenharia de ManutenÁ„o Planejamento;20501;205
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Engenharia - Eng. Manut. Planej. Proj. - JB;20502;205
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Contabil / Fiscal -  Contabilidade - JB;30101;301
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Custos / OrÁamento -  Planejamento e Custos - JB;30103;301
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Financeiro -  Sup - Financeiro - JB;30104;301
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor TI -  Sup - TI Sistema - JB;30203;302
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor TI -  Sup - TI Infraestrutura - PB;30204;302
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Transf. Digital - TI - TransformaÁ„o Digital (JB);30205;302
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Suprimentos - Suprimentos - JB;30401;304
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Suprimentos - Sup. Compras - JB;30403;304
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor de Facilities - Facilities - JB;30901;309
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Excelencia e Projetos - Supervis„o ExcelÍncia e Projetos JB;31001;310
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Recursos Humanos DO - Desenvolvimento JB;50101;501
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Recursos Humanos - Supervis„o AdministraÁ„o de Pessoal - JB;50102;501
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisora Restaurante -  Supervis„o Restaurante - JB;50103;501
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Meio Ambiente -  Meio Ambiente - JB;50402;504
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Saude - Saude do Trabalho - JB;50404;504
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Seg. do Trabalho - Supervis„o SeguranÁa do Trabalho (JB);50405;504
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Supervisor Seg. do Trabalho - Supervis„o SeguranÁa do Trabalho - PB;50406;504
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Controle Agricola - Coordenador Controle Agricola JB;1040101;10401
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - CoordenaÁ„o Fitossanidade - PB;1040201;10404
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - Fitosanidade / Viveiros / Ensaios - JB;1040202;10402
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - Combate a IncÍndio Turno C - PB;1060101;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - Combate a IncÍndio Turno B - PB;1060139;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;LÌder AgrÌcola - Gest„o da Colheita - PB;1060102;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;LÌder AgrÌcola - Gest„o da Colheita - PB;1060128;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - Transp. Canav. Turno B - PB;1060129;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - Frentes de Colheita 3 e 4 Turno A - PB;1060130;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;LÌder AgrÌcola - Gest„o da Colheita - PB;1060131;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola -  Frente Colheita - PB;1060132;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;LÌder AgrÌcola - Gest„o da Colheita - PB;1060133;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;LÌder AgrÌcola - Gest„o da Colheita - PB;1060134;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - Frentes de Colheita 5 e 6 Turno C - PB;1060135;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - Frentes de Colheita 5 e 6 Turno A - PB;1060136;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - Frentes de Colheita 5 e 6 Turno B - PB;1060137;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - Transp. Canav. Turno A - PB;1060138;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;LÌder AgrÌcola - Gest„o da Colheita - JB;106012;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;LÌder AgrÌcola - Gest„o da Colheita - JB;1060126;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - Frentes de Colheita 5 e 6 Turno C - JB;1060125;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - Frentes de Colheita 2 e 4 Turno B - JB;1060124;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - Frentes de Colheita 5 e 6 Turno A - JB;1060122;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - Frentes de Colheita 3 e Transporte Turno A - JB;1060123;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;LÌder AgrÌcola - Gest„o da Colheita - JB;1060120;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - Frentes de Colheita 3 e Transporte Turno B - JB;1060119;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;LÌder AgrÌcola - Gest„o da Colheita - JB;1060118;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - Logistica/Apoio - PB;1060103;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - Central - JB;1060117;10601
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador AgrÌcola - IrrigaÁ„o - JB;1060201;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - FertirrigaÁ„o - PB;1060216;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - IrrigaÁ„o Turno A - PB;1060215;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - IrrigaÁ„o - PB;1060202;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - CoordenaÁ„o adubaÁ„o (JB);1060214;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - CoordenaÁ„o Herbicida (JB);1060203;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - Preparo de Solo - PB;1060204;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - Plantio - JB;1060205;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola _ Plantio Entressafra;1060206;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - MDO Rural - JB;1060207;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - LaboratÛrio de Solos - JB;1060209;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - Tratos Culturais - PB;1060212;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - Tratos Culturais - PB;1060213;10602
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;LÌder AgrÌcola - IrrigaÁ„o - PB;1060301;10603
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;LÌder AgrÌcola - IrrigaÁ„o - PB;1060306;10603
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - CoordenaÁ„o IrrigaÁ„o - PB;1060305;10603
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - CoordenaÁ„o IrrigaÁ„o - PB;1060304;10603
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - CoordenaÁ„o IrrigaÁ„o - PB;1060303;10603
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Agricola - CoordenaÁ„o IrrigaÁ„o - PB;1060302;10603
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Manut. Automotiva -  Caminhıes e Prim·ria - JB;1070201;10702
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Manut. Automotiva -  Caminhıes e Prim·ria - PB;1070206;10702
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador ManutenÁ„o Automotiva -  Colhedora - PB;1070202;10702
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Manut. Automotiva -  Colhedoras Interna  (JB);1070205;10702
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Manut. Automotiva -  Tratores Interno - PB;1070203;10702
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Manut. Automotiva -  Tratores (JB);1070204;10702
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Proc. Industriais -  ExtraÁ„o - PB;2010801;20108
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Proc. Industriais -  ExtraÁ„o - JB;2010809;20108
+xx xxxx;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Corporate;Coordenador Proc. Industriais -  F·brica de AÁ˙car - JB;2010802;20108
