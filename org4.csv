@@ -1,53 +1,53 @@
-﻿name;imageUrl;positionName;id;parentId
-Josmar Verillo;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Presidente;O-00.;
-Cassio Manin Paggiaro;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Diretor Agrícola;O-01.;O-00.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Planejamento e Controle e Tecnologia - JB;O-01.04.;O-01.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Controles Agricolas -  Sup. Gestão Estrat. e Planej. - JB;O-01.04.01;O-01.04.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Agricola - Supervisao Engenharia Agricola Agronomica - JB;O-01.04.02;O-01.04.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Geotecnologia - Novas Tecnologias Agrícolas (JB);O-01.04.03;O-01.04.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Agricola - Supervisao Engenharia Agricola Agronomica - PB;O-01.04.04;O-01.04.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Relac. com Fornecedor - Ger Relac. com Fornec e Parceiros - JB;O-01.05.;O-01.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Relac. Forn. e Parc -  Sup Relacionamento com Fornec e Parc;O-01.05.01;O-01.05.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Processos Agrícola -  Gerência Agrícola - PB;O-01.06.;O-01.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Agricola -  Colheita - PB;O-01.06.01;O-01.06.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Agricola -  Colheita - JB;O-01.06.02;O-01.06.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Agricola - PPT (JB);O-01.06.03;O-01.06.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Agricola - Tratos Culturais - PB;O-01.06.04;O-01.06.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Agricola - PPT - PB;O-01.06.05;O-01.06.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Irrigação - Irrigação PB;O-01.06.06;O-01.06.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Manutenção Agricola -  Gerência de Recursos Mecanizados - JB;O-01.07.;O-01.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Manut. Automotiva -  Recursos Mecanizados - JB;O-01.07.01;O-01.07.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Manut. Automotiva -  Recursos Mecanizados - PB;O-01.07.02;O-01.07.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Processos Agricola - Gerencia Agricola - JB;O-01.08.;O-01.
-Helton Carlos de Oliveira;https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Diretor Industrial;O-02.;O-00.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Processos Industriais -  Indústria - JB;O-02.01.;O-02.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Prod. Açúcar/Etanol - Supervisão Processos Industriais (PB);O-02.01.08;O-02.01.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Processos Industriais -  Indústria - PB;O-02.02.;O-02.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Manut. Industrial -  Mecânica e Usinagem  (JB);O-02.02.07;O-02.02.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Manut. Industrial -  Elétrica e Instrumentação SNR - PB;O-02.02.08;O-02.02.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Engenharia e Qualidade - Engenharia PB;O-02.05.;O-02.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Proc. Industriais - Engenharia de Manutenção Planejamento;O-02.05.01;O-02.05.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Engenharia - Eng. Manut. Planej. Proj. - JB;O-02.05.02;O-02.05.
+﻿name,imageUrl,positionName,id,parentId
+Josmar Verillo,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Presidente,O-00.,
+Cassio Manin Paggiaro,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Diretor Agrícola,O-01.,O-00.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Planejamento e Controle e Tecnologia - JB,O-01.04.,O-01.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Controles Agricolas -  Sup. Gestão Estrat. e Planej. - JB,O-01.04.01,O-01.04.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Agricola - Supervisao Engenharia Agricola Agronomica - JB,O-01.04.02,O-01.04.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Geotecnologia - Novas Tecnologias Agrícolas (JB),O-01.04.03,O-01.04.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Agricola - Supervisao Engenharia Agricola Agronomica - PB,O-01.04.04,O-01.04.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Relac. com Fornecedor - Ger Relac. com Fornec e Parceiros - JB,O-01.05.,O-01.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Relac. Forn. e Parc -  Sup Relacionamento com Fornec e Parc,O-01.05.01,O-01.05.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Processos Agrícola -  Gerência Agrícola - PB,O-01.06.,O-01.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Agricola -  Colheita - PB,O-01.06.01,O-01.06.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Agricola -  Colheita - JB,O-01.06.02,O-01.06.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Agricola - PPT (JB),O-01.06.03,O-01.06.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Agricola - Tratos Culturais - PB,O-01.06.04,O-01.06.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Agricola - PPT - PB,O-01.06.05,O-01.06.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Irrigação - Irrigação PB,O-01.06.06,O-01.06.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Manutenção Agricola -  Gerência de Recursos Mecanizados - JB,O-01.07.,O-01.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Manut. Automotiva -  Recursos Mecanizados - JB,O-01.07.01,O-01.07.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Manut. Automotiva -  Recursos Mecanizados - PB,O-01.07.02,O-01.07.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Processos Agricola - Gerencia Agricola - JB,O-01.08.,O-01.
+Helton Carlos de Oliveira,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Diretor Industrial,O-02.,O-00.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Processos Industriais -  Indústria - JB,O-02.01.,O-02.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Prod. Açúcar/Etanol - Supervisão Processos Industriais (PB),O-02.01.08,O-02.01.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Processos Industriais -  Indústria - PB,O-02.02.,O-02.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Manut. Industrial -  Mecânica e Usinagem  (JB),O-02.02.07,O-02.02.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Manut. Industrial -  Elétrica e Instrumentação SNR - PB,O-02.02.08,O-02.02.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Engenharia e Qualidade - Engenharia PB,O-02.05.,O-02.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Proc. Industriais - Engenharia de Manutenção Planejamento,O-02.05.01,O-02.05.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Engenharia - Eng. Manut. Planej. Proj. - JB,O-02.05.02,O-02.05.
 "Tiago Marcelo de Novaes
-";https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Diretor Administrativo Financeiro;O-03.;O-00.
+",https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Diretor Administrativo Financeiro,O-03.,O-00.
 "Leandro de Souza Barbosa
-";https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Controladoria - Controladoria - JB;O-03.01.;O-03.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Contabil / Fiscal -  Contabilidade - JB;O-03.01.01;O-03.01.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Custos / Orçamento -  Planejamento e Custos - JB;O-03.01.03;O-03.01.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Financeiro -  Sup - Financeiro - JB;O-03.01.04;O-03.01.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Tecnologia Informação -  Gerência TI - JB;O-03.02.;O-03.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor TI -  Sup - TI Sistema - JB;O-03.02.03;O-03.02.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor TI -  Sup - TI Infraestrutura - PB;O-03.02.04;O-03.02.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Transf. Digital - TI - Transformação Digital (JB);O-03.02.05;O-03.02.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Suprimentos -  Gerência de Suprimentos - JB;O-03.04.;O-03.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Suprimentos - Suprimentos - JB;O-03.04.01;O-03.04.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Suprimentos - Sup. Compras - JB;O-03.04.03;O-03.04.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente Juridico/Recursos Humanos - Juridico/RH - JB;O-05.01.;O-00.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Recursos Humanos DO - Desenvolvimento JB;O-05.01.01;O-05.01.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Recursos Humanos - Supervisão Administração de Pessoal - JB;O-05.01.02;O-05.01.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisora Restaurante -  Supervisão Restaurante - JB;O-05.01.03;O-05.01.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Gerente SSMA - SSMA JB;O-05.04.;O-00.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Meio Ambiente -  Meio Ambiente - JB;O-05.04.02;O-05.04.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Saude - Saude do Trabalho - JB;O-05.04.04;O-05.04.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Seg. do Trabalho - Supervisão Segurança do Trabalho (JB);O-05.04.05;O-05.04.
-[nome e sobrenome];https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg;Supervisor Seg. do Trabalho - Supervisão Segurança do Trabalho - PB;O-05.04.06;O-05.04.
+",https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Controladoria - Controladoria - JB,O-03.01.,O-03.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Contabil / Fiscal -  Contabilidade - JB,O-03.01.01,O-03.01.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Custos / Orçamento -  Planejamento e Custos - JB,O-03.01.03,O-03.01.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Financeiro -  Sup - Financeiro - JB,O-03.01.04,O-03.01.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Tecnologia Informação -  Gerência TI - JB,O-03.02.,O-03.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor TI -  Sup - TI Sistema - JB,O-03.02.03,O-03.02.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor TI -  Sup - TI Infraestrutura - PB,O-03.02.04,O-03.02.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Transf. Digital - TI - Transformação Digital (JB),O-03.02.05,O-03.02.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Suprimentos -  Gerência de Suprimentos - JB,O-03.04.,O-03.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Suprimentos - Suprimentos - JB,O-03.04.01,O-03.04.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Suprimentos - Sup. Compras - JB,O-03.04.03,O-03.04.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente Juridico/Recursos Humanos - Juridico/RH - JB,O-05.01.,O-00.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Recursos Humanos DO - Desenvolvimento JB,O-05.01.01,O-05.01.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Recursos Humanos - Supervisão Administração de Pessoal - JB,O-05.01.02,O-05.01.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisora Restaurante -  Supervisão Restaurante - JB,O-05.01.03,O-05.01.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Gerente SSMA - SSMA JB,O-05.04.,O-00.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Meio Ambiente -  Meio Ambiente - JB,O-05.04.02,O-05.04.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Saude - Saude do Trabalho - JB,O-05.04.04,O-05.04.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Seg. do Trabalho - Supervisão Segurança do Trabalho (JB),O-05.04.05,O-05.04.
+[nome e sobrenome],https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Supervisor Seg. do Trabalho - Supervisão Segurança do Trabalho - PB,O-05.04.06,O-05.04.
